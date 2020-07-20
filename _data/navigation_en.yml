@@ -1,0 +1,21 @@
+# Navigion Links 
+main:
+  - title: "Scientific Committee"
+    url: /about/
+  # - title: "Publications"
+  #   url: /publications/
+
+  - title: "Accepted Chapters"
+    url: /acceptedchapters/
+  - title: "Webinars"
+    url: /webinars/
+  - title: "News"
+    url: /news/
+  - title: "FAQs"
+    url: /faq/
+  - title: "Contact"
+    url: /contact/
+
+
+
+

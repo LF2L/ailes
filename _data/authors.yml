@@ -1,0 +1,20 @@
+Laure Morel:
+  name: Laure Morel  
+  email: "laure.morel@univ-lorraine.fr"
+  bio: " "
+  avatar: "/assets/images/people/LM.jpg"
+  links:
+      - label: "Google Scholar"
+        icon: "ai ai-google-scholar-square"
+        url: "https://scholar.google.fr/citations?user=H5y9cUwAAAAJ&hl=fr&oi=sra"  
+
+Rob Dekkers:  
+  name: "Rob Dekkers"
+  bio: " "
+  avatar: "/assets/images/people/RD.jpg"
+  email: "Rob.Dekkers@glasgow.ac.uk"
+  links:
+      - label: "Google Scholar"
+        icon: "ai ai-google-scholar-square"
+        url: "https://scholar.google.fr/citations?user=cCbUXLgAAAAJ&hl=fr&oi=ao"  
+

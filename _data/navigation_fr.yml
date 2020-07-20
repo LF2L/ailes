@@ -1,0 +1,14 @@
+# Navigation Links in French
+main:
+  - title: "Information"
+    url: /news/  
+  - title: "Action 1"
+    url: /action1/
+  - title: "Action 2"
+    url: /action2/
+  - title: "Action 3"
+    url: /action3/
+  - title: "Action 4"
+    url: /action4/
+  - title: "Observatoire des Parcours"
+    url: /axe/    
