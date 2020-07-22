@@ -257,11 +257,7 @@ collections:
   posts:
     output: true
     permalink: /:collection/:year/:title/
-
-  portfolio:
-    output: true
-    permalink: /collection/:path/ 
-
+    
   publications:
     output: true
     permalink: /:path    
