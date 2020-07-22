@@ -36,13 +36,24 @@ gallery:
 ---
 
 
-**Call for Chapters - European Perspectives on Innovation Management**
+Le Projet
+=========
 
-It is the diversity of cultures within Europe that inspired us to explore what unites these approaches to innovation management and how they differ.  
+« Le projet Ailes (Accompagnement à l’intégration des lycéens dans l’enseignement supérieur) vise les lycéens, les néo-étudiants, leurs familles, mais aussi l’ensemble des acteurs de l’éducation et de l’orientation. 
 
-We invite scholars to contribute chapters, whether they are conceptual, positional, empirical or comparative, to look at specific characteristics of innovation in a regional, national and transnational context within Europe. 
+**Objectifs :**
 
-We are looking forward to receiving chapters about Nordic, Anglo-Saxon, Nippon-Rhineland, Mediterranean, Eastern Europe, etc. approaches to innovation management and settings; however, perspectives for this book are not limited to these.  Although there have been studies into this, they have not been brought together in a collection.
++ Faciliter l’entrée dans les études supérieures et lutter contre l’autocensure. 
++ Mieux informer et accompagner les jeunes
++ Travailler la confiance et l’ambition des jeunes : transformer l’écosystème dans lequel ils évoluent
+
+**Un projet innovant :**
+
++ Innover avec l’approche Living Lab qui vise, dans une démarche collaborative, à construire, avec l’ensemble des acteurs, une compréhension partagée des problèmes et des solutions dans les territoires.
++ Expérimenter de nouvelles idées ou la transformation des dispositifs existants. Le projet Ailes repose sur une démarche itérative permettant de faire constamment évoluer les dispositifs afin de toujours mieux répondre aux problématiques rencontrés par les lycéens. Il est adossé à une évaluation scientifique menée par un laboratoire de recherche totalement partie prenante du projet. »
+
+
+{% include /AILES/portfolio %} 
 
 
 
