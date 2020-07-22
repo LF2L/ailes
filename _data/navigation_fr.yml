@@ -10,5 +10,7 @@ main:
     url: /action3/
   - title: "Action 4"
     url: /action4/
+  - title: "Living Lab"
+    url: /livinglab/
   - title: "Observatoire des Parcours"
     url: /axe/    
