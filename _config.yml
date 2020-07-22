@@ -372,14 +372,6 @@ defaults:
       lang: fr
 
 
-# _portfolio
-  - scope:
-    path: ""
-    type: portfolio
-  values:
-    layout: single
-    author_portfolio: false
-    share: true 
 
 
 
