@@ -1,7 +1,7 @@
 ---
 lang: fr
-title: "Action n°1"
-permalink: /action1/
+title: "Le projet"
+permalink: /leprojet/
 
 
 excerpt: "Appuyer l'accompagnement de proximité dans les lycées"
@@ -21,7 +21,7 @@ last_modified_at: 2020-07-22
 
 {% include feature_row id="intro" type="center" %}
 
-Action n°1
+Action n°10
 =========
 
 **Appuyer l'accompagnement de proximité dans les lycées**

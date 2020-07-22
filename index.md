@@ -5,7 +5,7 @@ permalink: "/"
 
 excerpt: "Projet AILES"
 header:
-  overlay_image: /assets/images/banner/banneropen.jpg
+  overlay_image: /assets/images/banner/banneropen2.jpg
   caption: 
   overlay_filter: rgba(0, 0, 153, 0.5)
 
@@ -53,7 +53,6 @@ Le Projet
 + Expérimenter de nouvelles idées ou la transformation des dispositifs existants. Le projet Ailes repose sur une démarche itérative permettant de faire constamment évoluer les dispositifs afin de toujours mieux répondre aux problématiques rencontrés par les lycéens. Il est adossé à une évaluation scientifique menée par un laboratoire de recherche totalement partie prenante du projet. »
 
 
-{% include /AILES/portfolio %} 
 
 
 
