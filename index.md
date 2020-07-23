@@ -2,68 +2,70 @@
 lang: fr
 title: AILES
 permalink: "/"
+layout: splash
+excerpt: "Accompagnement à l’intégration des lycéens dans l’enseignement supérieur"
 
-excerpt: "Projet AILES"
+
 header:
   overlay_image: /assets/images/banner/banneropen2.jpg
   caption: 
   overlay_filter: rgba(0, 0, 153, 0.5)
 
 
-gallery:
-
-  - url: "https://www.springer.com/gp"
-    image_path: "/assets/images/logo/logospringer.png"
-    alt: Springer
-    title: Springer
-  - url: "https://www.gla.ac.uk/schools/business/"
-    image_path: "assets/images/logo/logoasbs.png"
-    alt: The University of Glasgow 
-    title : The University of Glasgow 
-  - url: "https://www.univ-lorraine.fr"
-    image_path: "/assets/images/logo/logoul.png"
-    alt: UL
-    title: UL
-  - url: "https://erpi.univ-lorraine.fr"
-    image_path: "/assets/images/logo/logoerpi.jpg"
-    alt: ERPI
-    title: ERPI
+intro: 
+  - excerpt: "Le projet Ailes vise les lycéens, les néo-étudiants, leurs familles, mais aussi l’ensemble des acteurs de l’éducation et de l’orientation."
  
 
+feature_row1:
+  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+    alt: "placeholder image 2"
+    title: "Objectifs"
+    excerpt: '
+    + Faciliter l’entrée dans les études supérieures et lutter contre l’autocensure.
 
+    + Mieux informer et accompagner les jeunes
 
+    + Travailler la confiance et l’ambition des jeunes : transformer l’écosystème dans lequel ils évoluent'
+    url: "#test-link"
+    btn_label: "Lire plus"
+    btn_class: "btn--primary"
+feature_row2:
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Un projet innovant"
+    excerpt: '
+    + Innover avec l’approche Living Lab qui vise, dans une démarche collaborative, à construire, avec l’ensemble des acteurs, une compréhension partagée des problèmes et des solutions dans les territoires.
 
+    + Expérimenter de nouvelles idées ou la transformation des dispositifs existants. Le projet Ailes repose sur une démarche itérative permettant de faire constamment évoluer les dispositifs afin de toujours mieux répondre aux problématiques rencontrés par les lycéens. Il est adossé à une évaluation scientifique menée par un laboratoire de recherche totalement partie prenante du projet. '
+    url: "#test-link"
+    btn_label: "Lire plus"
+    btn_class: "btn--primary"
+
+feature_row3:
+  - image_path: /assets/images/unsplash-gallery-image-4-th.jpg
+    alt: "placeholder image 2"
+    title: "Les actions"
+    excerpt: "Accompagner, Mieux informer, Favoriser l'ambition, Faire decouvrir les metiers. "
+    url: "#test-link"
+    btn_label: "Lire plus"
+    btn_class: "btn--primary" 
 ---
 
 
-Le Projet
-=========
+{% include feature_row id="intro" type="center" %}
 
-« Le projet Ailes (Accompagnement à l’intégration des lycéens dans l’enseignement supérieur) vise les lycéens, les néo-étudiants, leurs familles, mais aussi l’ensemble des acteurs de l’éducation et de l’orientation. 
+{% include feature_row id="feature_row1" type="left" %}
 
-**Objectifs :**
+{% include feature_row id="feature_row2" type="right" %}
 
-+ Faciliter l’entrée dans les études supérieures et lutter contre l’autocensure. 
-+ Mieux informer et accompagner les jeunes
-+ Travailler la confiance et l’ambition des jeunes : transformer l’écosystème dans lequel ils évoluent
+<!-- {% include feature_row id="feature_row3" type="center" %}
+ -->
 
-**Un projet innovant :**
-
-+ Innover avec l’approche Living Lab qui vise, dans une démarche collaborative, à construire, avec l’ensemble des acteurs, une compréhension partagée des problèmes et des solutions dans les territoires.
-+ Expérimenter de nouvelles idées ou la transformation des dispositifs existants. Le projet Ailes repose sur une démarche itérative permettant de faire constamment évoluer les dispositifs afin de toujours mieux répondre aux problématiques rencontrés par les lycéens. Il est adossé à une évaluation scientifique menée par un laboratoire de recherche totalement partie prenante du projet. »
-
-
-
-
-
-## Partners 
-
-{% include gallery %}
 
 <!-- If you want to display the new or announcements here  -->
-## Announcements
+<!-- ## Announcements
 
 
-{% include /AILES/Posts-FR.html %}
+{% include /AILES/Posts-FR.html %} -->
 
 

@@ -74,8 +74,8 @@ $type-size-8 : 0.625em;  // ~10px
 
 
 // Colors ERPI - modifiés pour n-hum-inno
-$ERPI-Blue-Dark: #002498; // #005798;
-$ERPI-Blue-Ligth: #005798;
+$ERPI-Blue-Dark: #483D8B; // #005798;
+$ERPI-Blue-Ligth: #6a5db8;
 $ERPI-Green-Dark: #009342;
 $ERPI-Green-Ligth: #009342;
 
@@ -212,7 +212,7 @@ table tr td:first-child {
   }
   
   .btn--primary:hover {
-    background: #005798;
+    background: #6a5db8;
   }
 
   .greedy-nav .hidden-links li {
@@ -234,7 +234,7 @@ table tr td:first-child {
   // }
 
   // .masthead__menu-item:nth-child(4) {
-  //   border:1px solid #003399;
+  //   border:1px solid #6a5db8;
   // }
 
   .masthead__menu-item:hover {
