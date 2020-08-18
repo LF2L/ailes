@@ -8,7 +8,9 @@ entries_layout: grid
 teaser_class: 
 sort_by: orden 
 
-excerpt: "Donner confiance aux jeunes dans leurs choix"
+excerpt: "Donner confiance aux jeunes dans leurs choix"  
+
+
 header:
   overlay_image: /assets/images/banner/banneractionlesactions.jpg
   image_description: "Donner confiance aux jeunes dans leurs choix"
