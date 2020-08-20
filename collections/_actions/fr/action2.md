@@ -1,41 +1,18 @@
 ---
-lang: fr
-title: "Les actions"
-permalink: /lesactions/
-
-collection: 
-entries_layout: grid 
-teaser_class: 
-sort_by: orden 
-
-excerpt: "Donner confiance aux jeunes dans leurs choix"  
-
-
+title: Mieux informer
+excerpt: ""
 header:
+  teaser: /assets/images/actions/teaser.jpg
   overlay_image: /assets/images/banner/banneractionlesactions.jpg
   image_description: "Donner confiance aux jeunes dans leurs choix"
   caption: 
-  overlay_filter: rgba(0, 0, 153, 0.5)
+  overlay_filter: rgba(0, 0, 153, 0.5) 
+
+last_modified_at: 2020-08-20
 
 ---
 
-# Les actions
-
-
-## Accompagner 
-
-Deux grands défis :
-+ Amener les professionnels de l’enseignement à informer et accompagner les élèves dans leurs choix d’orientation ;
-+ Amener les deux systèmes, scolaire et supérieur, à mieux se connaître et mieux se comprendre.
-
-Trois dispositifs :
-+ Un plan de formation continue spécifique à l’orientation (sensibilisation à l’approche orientante, connaissance partagée des parcours, difficultés liées à l’autocensure, au manque d’ambition et de confiance en soi). Il concernera les personnels des lycées et de l’enseignement supérieur et sera organisé en présentiel, au plus près des acteurs, mais également à distance (webinaire, etc.) ;
-+ Des communautés de pratiques mixtes secondaire/supérieur ;
-+ Le développement de ressources numériques pour l’autoformation.  
-
---------------------------
-
-## Mieux informer
+# Mieux informer
 
 Faciliter l’accès à l’information des jeunes et de leurs familles quant aux formations et la vie étudiante :
 + Investir de nouveaux **moyens de communication adaptés** aux pratiques des jeunes (communication numérique, réseaux sociaux) ;
@@ -76,30 +53,5 @@ Faciliter l’accès à l’information des jeunes et de leurs familles quant au
 >« Un ambassadeur, c’est une personne qui va presque incarner, mais qui va surtout transmettre. Transmettre une expérience personnelle, son vécu. Et en même temps, être un soutien, un accompagnement, quelqu’un qui peut répondre aux questions des lycéens. Par exemple, lors d’Un jour à l’Université, l’un des principaux a priori que j’ai entendu, c’était « on est vraiment seul à l’université, ». Je pense que c’est vraiment ce que nous sommes censés incarner en tant qu’ambassadeurs, non, vous n’êtes pas seuls, nous on est là et regardez tout ce qui existe ! Les associations, les tutorats, etc. On leur fait découvrir la fac, presque comme des guides touristiques »
 > 
 >Lina, L1 psychologie  
-
---------------------------
-
-## Favoriser l'ambition
-
-Cet axe regroupe des actions visant à aider les jeunes à construire leur projet de formation de manière ambitieuse. Il reposera sur l’identification précise des différentes dimensions de l’autocensure.
-+ **Ateliers permettant de travaillant la confiance en soi et l’ambition.** Fondés sur des pédagogies actives, ces ateliers permettront de faire prendre conscience aux jeunes de leurs compétences, notamment les compétences sociales, de savoir les identifier et les mettre en valeur. 
-+ **Challenges et journées de l’innovation** qui permettront aux lycées de se révéler dans le cadre de résolutions de problèmes en situations concrètes et au contact d’étudiants et de professionnels de leur domaine de formation.
-+ **Dispositif d’élargissement des compétences.** Il s’agit de permettre aux lycéens de compléter leur portefeuille de compétences via des modules disciplinaires et/ou méthodologiques.
-+ **Parrainage et réseau Alumni pour les lycéens.** Des étudiants viendront parrainer des lycéens et néo-étudiants et jouer auprès d’eux le rôle de grand frère / grande sœur. Ce dispositif permettra de lutter contre l’autocensure en faisant connaître concrètement ce qu’est le métier étudiant et la vie étudiante, en luttant contre les idées reçues sur l’enseignement supérieur et en rompant l’isolement. Il permettra aux jeunes de résolument se projeter dans les études supérieures.
-+ **Actions spécifiques à destination des jeunes en réorientation**, afin de travailler ensemble l’information, l’accompagnement et la confiance en soi des jeunes en réorientation pour leur permettre de mieux préparer et vivre leur réorientation. Différents dispositifs seront testés, transformés ou étendus : ateliers « Se réorienter ou pas ! », bilan approfondi, dispositif Ricocher (en partenariat avec la Région Grand Est), etc.
-
-En parallèle, sera menée une action spécifique sur la liaison entre les lycées proposant la mention STMG et les IUT afin de travailler la complémentarité de ces différents dispositifs sur une filière.
-
---------------
-
-## Faire découvrir les métiers
-
-« Cet axe vise à faire découvrir aux élèves des domaines professionnels et des métiers. Dans un premier temps, il s’agira de l’industrie, du BTP et des métiers de la recherche et développement. 
-+ **Industrie.** Notre territoire est historiquement maillé par l’industrie mais ce secteur, extrêmement important dans notre région, souffre d’un déficit d’image tout en étant fortement pourvoyeur d’emplois. 
-+ **BTP.** Ce secteur partage un même déficit d’image alors même que les nouvelles technologies ont conduit à une mutation des métiers et des besoins. 
-+ **R&D.** Ces métiers constituent une vitrine incontournable des universités. »  
-
-
-
 
 

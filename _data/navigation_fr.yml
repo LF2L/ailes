@@ -6,10 +6,25 @@ main:
   - title: "Les territoires"
     url: /lesterritoires/
   - title: "Les actions"
-    url: /lesactions/
+    url: /actions/
   - title: "Living Lab"
     url: /livinglab/
   - title: "Observatoire des Parcours"
     url: /axe/    
   - title: "Contact"
     url: /contact/    
+
+
+actions:
+
+  - title: "Les actions"
+    children:
+      - title: "Accompagner"
+        url: /actions/action1/
+      
+      - title: "Informer"
+        url: /actions/action2/
+      - title: "Favoriser"
+        url: /actions/action3/
+      - title: "Découvrir"
+        url: /actions/action4/
