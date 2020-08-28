@@ -10,7 +10,7 @@ header:
   overlay_image: /assets/images/banner/banneraction1.jpg
   image_description: "Lycée"
   caption: 
-  overlay_filter: rgba(0, 0, 153, 0.5)
+  overlay_filter: 
 
 ---
 

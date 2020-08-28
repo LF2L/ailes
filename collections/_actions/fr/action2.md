@@ -25,26 +25,9 @@ Faciliter l’accès à l’information des jeunes et de leurs familles quant au
 > 
 >Nadia, L2 droit
 
->« J’ai postulé car je voulais partager mon expérience, sur l’arrivée à la fac, sur son organisation, mais aussi pour casser les a priori sur la fac, pour apporter un regard étudiant ! Par exemple, en première année, je n’ai pas osé m’inscrire au SIUAP [sport universitaire]. Pour moi, c’était : priorité aux études. Mais si j’avais rencontré un étudiant, il aurait pu me dire : « tu sais, 2h par semaine, c’est rien ! Il faut aussi prendre ce temps pour toi, pour te faire du bien ». Et c’est vrai ! Il faut s’évader un peu aussi ! » 
-> 
->Juliette, L3 Sciences de la vie
-
-
->« Lors d’Un jour à l’Université, j’étais avec une autre étudiante et on s’est occupé de 3 lycéennes qui avaient plein de questions ! Quand elles sont arrivées, elles ont trouvé que c’était super grand, elles avaient peur de se perdre. Et j’ai pu les rassurer car j’ai eu la même réaction qu’elles ! Après, elles ont posé des questions sur la vie étudiante, sur le sport, sur le RU, le logement, etc. Et vu qu’on était plusieurs à parler de notre vécu, elles ont pu avoir différents points de vue ! »
-> 
->Juliette, L3 Sciences de la vie
-
 >« Je souhaite que les ambassadeurs puissent apporter leur témoignage, parce qu’à la fac, je pense qu’il n’y a pas deux parcours qui se ressemblent ! C’est important de le dire, de le faire comprendre aux lycéens. Moi, par exemple, j’ai fait un BTS et maintenant je suis en L3 géographie et je pars pour faire un master. C’est possible, les passerelles, ça existe ! Il faut oser, se renseigner, poser des questions ! »
 > 
 >Léa, L3 géographie-aménagement
-
->« Mes parents habitent loin, donc je me suis retrouvée avec beaucoup de temps et j’avais envie de m’impliquer personnellement. C’est mon premier job et cela fait à peine un an que je suis à la fac, j’avais peur qu’on me dise non. Finalement, on m’a fait confiance ! En plus, je considère presque ça même pas comme un job ; c’est plus épanouissant, pas trop contraignant et c’est très diversifié. Là par exemple, on vient de nous demander de tourner des vidéos de présentation du service d’orientation de l’Université ».
-> 
->Lina, L1 psychologie
-
->« Et puis, pour moi, c’est tout récent, moi ça ne fait même pas un an que je suis passée du statut de lycéen à étudiant. Donc c’est encore ancré récemment, dans ma mémoire, de me dire, j’avais tel doute, j’avais telle question, je ne savais pas comment ça fonctionnait, etc. Les personnes, en face de moi, elles étaient en train de passer leur bac, elles étaient dans la même situation que moi il y a un an, donc je me sentais très proche d’elles, et en même temps très contente de pouvoir les aider ! »
-> 
->Lina, L1 psychologie
 
 >« Un ambassadeur, il va parler de son expérience personnelle. C’est important d’avoir un étudiant qui vient te parler concrètement, du fonctionnement de la BU, du RU, de toutes ces petites questions qu’on se pose quand on est lycée, et qui sont légitimes ! Parce que quand même, cela va être notre vie quotidienne à l’université ! En plus, en parlant avec des étudiants, les lycéens peuvent se rendre compte de la réalité de la fac, d’une filière et se faire une meilleure idée de si cela nous convient… ou pas ! »
 > 

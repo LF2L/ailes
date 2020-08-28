@@ -9,11 +9,11 @@ excerpt: "Accompagnement à l’intégration des lycéens dans l’enseignement 
 header:
   overlay_image: /assets/images/banner/banneropen2.jpg
   caption: 
-  overlay_filter: rgba(0, 0, 153, 0.5)
+  overlay_filter: 
 
 
 intro: 
-  - excerpt: "Le projet Ailes vise les lycéens, les néo-étudiants, leurs familles, mais aussi l’ensemble des acteurs de l’éducation et de l’orientation."
+  - excerpt: "Le projet Ailes vise les lycéens, les néo-étudiants, leurs familles, mais aussi l’ensemble des acteurs de l’éducation et de l’orientation. Il associe trois Universités (Université de Reims Champagne-Ardenne, Université de Lorraine, Université de technologie de Troyes) et deux Rectorats (Nancy-Metz et Reims) et bénéficie du soutien de la Caisse des dépôts et consignations dans le cadre du PIA 3."
  
 
 feature_row1:
@@ -67,5 +67,7 @@ feature_row3:
 
 
 {% include /AILES/Posts-FR.html %} -->
+
+![Beandeau logos partenaires](/assets/images/logo/bandeaulogo.png)
 
 
