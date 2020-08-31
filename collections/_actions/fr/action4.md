@@ -3,7 +3,7 @@ title: Faire découvrir les metiers
 excerpt: ""
 
 header:
-  teaser: /assets/images/actions/teaser.jpg
+  teaser: /assets/images/actions/gear4.png
   overlay_image: /assets/images/banner/banneractionlesactions.jpg
   image_description: "Donner confiance aux jeunes dans leurs choix"
   caption: 

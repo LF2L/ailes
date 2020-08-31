@@ -2,7 +2,7 @@
 title: Mieux informer
 excerpt: ""
 header:
-  teaser: /assets/images/actions/teaser.jpg
+  teaser: /assets/images/actions/gear2.png
   overlay_image: /assets/images/banner/banneractionlesactions.jpg
   image_description: "Donner confiance aux jeunes dans leurs choix"
   caption: 
