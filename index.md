@@ -17,8 +17,8 @@ intro:
  
 
 feature_row1:
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 2"
+  - image_path: /assets/images/objectifs.jpg
+    alt: "objectifs"
     title: "Objectifs"
     excerpt: '
     + Faciliter l’entrée dans les études supérieures et lutter contre l’autocensure.
@@ -30,7 +30,7 @@ feature_row1:
     btn_label: "Lire plus"
     btn_class: "btn--primary"
 feature_row2:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/innovation.jpg
     alt: "placeholder image 2"
     title: "Un projet innovant"
     excerpt: '
