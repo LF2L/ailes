@@ -22,14 +22,14 @@ Faciliter l’accès à l’information des jeunes et de leurs familles quant au
 + **Rapprocher l’information** des jeunes via des étudiants **ambassadeurs** (proximité générationnelle) qui interviendront dans les lycées, lors des immersions et sur les réseaux sociaux.
 
 
-![Nadia première année licence Droit](ailes/assets/images/bulles/nadiadroit.png){:height="800px" width="800px"}
+![Nadia première année licence Droit]( /assets/images/bulles/nadiadroit.png){:height="800px" width="800px"}
 
-![Nadia troisième année Géographie-aménagement](ailes/assets/images/bulles/LeaL3geo.png){:height="800px" width="800px"}
+![Nadia troisième année Géographie-aménagement]( /assets/images/bulles/LeaL3geo.png){:height="800px" width="800px"}
 
 
-![Justine première année Psychologie](ailes/assets/images/bulles/BulleJustine.png){:height="800px" width="800px"}
+![Justine première année Psychologie]( /assets/images/bulles/BulleJustine.png){:height="800px" width="800px"}
 
-![Lina première année Psychologie](ailes/assets/images/bulles/BulleLina.png){:height="800px" width="800px"}
+![Lina première année Psychologie]( /assets/images/bulles/BulleLina.png){:height="800px" width="800px"}
 
 
 
