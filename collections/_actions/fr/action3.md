@@ -1,5 +1,6 @@
 ---
 title: Favoriser l'ambition
+permalink: "/actions/action3/"
 excerpt: ""
 header:
   teaser: /assets/images/actions/gear3.png

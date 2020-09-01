@@ -1,5 +1,6 @@
 ---
 title: Faire découvrir les metiers
+permalink: "/actions/action4/"
 excerpt: ""
 
 header:
