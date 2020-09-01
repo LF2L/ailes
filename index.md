@@ -68,6 +68,8 @@ feature_row3:
 
 {% include /AILES/Posts-FR.html %} -->
 
-![Beandeau logos partenaires](/assets/images/logo/bandeaulogo.png)
+
+{% include figure image_path="/assets/images/logo/bandeaulogo.png" alt="LOGO partenaires" caption="" %}
+
 
 
