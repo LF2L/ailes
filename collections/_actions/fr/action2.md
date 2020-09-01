@@ -1,5 +1,6 @@
 ---
 title: Mieux informer
+permalink: "/actions/action2/"
 excerpt: ""
 header:
   teaser: /assets/images/actions/gear2.png
