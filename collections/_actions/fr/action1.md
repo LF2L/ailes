@@ -5,7 +5,7 @@ permalink: "/actions/action1/"
 excerpt: ""
 
 header:
-  teaser: /assets/images/actions/gear1.png
+  teaser: /assets/images/actions/accompagner.png
   overlay_image: /assets/images/banner/banneractionlesactions.jpg
   image_description: "Donner confiance aux jeunes dans leurs choix"
   caption: 

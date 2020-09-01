@@ -3,7 +3,7 @@ title: Favoriser l'ambition
 permalink: "/actions/action3/"
 excerpt: ""
 header:
-  teaser: /assets/images/actions/gear3.png
+  teaser: /assets/images/actions/ambition.png
   overlay_image: /assets/images/banner/banneractionlesactions.jpg
   image_description: "Donner confiance aux jeunes dans leurs choix"
   caption: 
