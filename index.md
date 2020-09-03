@@ -7,7 +7,7 @@ excerpt: "Accompagnement à l’intégration des lycéens dans l’enseignement 
 
 
 header:
-  overlay_image: /assets/images/banner/banneropen2.jpg
+  overlay_image: /assets/images/banner/bannerindex.jpg
   caption: 
   overlay_filter: 
 
@@ -26,9 +26,10 @@ feature_row1:
     + Mieux informer et accompagner les jeunes
 
     + Travailler la confiance et l’ambition des jeunes : transformer l’écosystème dans lequel ils évoluent'
-    url: "#test-link"
+    url: /actions/
     btn_label: "Lire plus"
     btn_class: "btn--primary"
+
 feature_row2:
   - image_path: /assets/images/innovation.jpg
     alt: "placeholder image 2"
@@ -37,7 +38,7 @@ feature_row2:
     + Innover avec l’approche Living Lab qui vise, dans une démarche collaborative, à construire, avec l’ensemble des acteurs, une compréhension partagée des problèmes et des solutions dans les territoires.
 
     + Expérimenter de nouvelles idées ou la transformation des dispositifs existants. Le projet Ailes repose sur une démarche itérative permettant de faire constamment évoluer les dispositifs afin de toujours mieux répondre aux problématiques rencontrés par les lycéens. Il est adossé à une évaluation scientifique menée par un laboratoire de recherche totalement partie prenante du projet. '
-    url: "#test-link"
+    url: /livinglab/
     btn_label: "Lire plus"
     btn_class: "btn--primary"
 
@@ -69,7 +70,7 @@ feature_row3:
 {% include /AILES/Posts-FR.html %} -->
 
 
-{% include figure image_path="/assets/images/logo/bandeaulogo.png" alt="LOGO partenaires" caption="" %}
+{% include figure image_path="/assets/images/logo/bandeaulogo2.png" alt="LOGO partenaires" caption="" %}
 
 
 

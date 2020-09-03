@@ -4,7 +4,7 @@ permalink: /lesterritoires/
 excerpt: "Spécificités territoriales"
 
 header:
-  overlay_image: /assets/images/banner/bannerterritoire2.jpg
+  overlay_image: /assets/images/banner/bannerterritoire5.jpg
   image_description: "Lorraine"
   caption: 
 last_modified_at: 2020-06-18

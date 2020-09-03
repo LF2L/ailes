@@ -10,7 +10,7 @@ sort_by: orden
 
 excerpt: ""
 header:
-  overlay_image: /assets/images/banner/banneraxe.jpg
+  overlay_image: /assets/images/banner/banneraxe2.png
   image_description: "Observatoire des parcours"
   caption: 
   overlay_filter: 
