@@ -3,7 +3,7 @@ lang: fr
 title: AILES
 permalink: "/"
 layout: splash
-excerpt: "Accompagnement à l’intégration des lycéens dans l’enseignement supérieur"
+
 
 
 header:
@@ -31,7 +31,7 @@ feature_row1:
     btn_class: "btn--primary"
 
 feature_row2:
-  - image_path: /assets/images/accueil-innovants.png
+  - image_path: /assets/images/home/accueil-innovants.png
     alt: "placeholder image 2"
     title: "Un projet innovant"
     excerpt: '
