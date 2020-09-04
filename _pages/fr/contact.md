@@ -1,10 +1,10 @@
 ---
-title: "Contact"
+title: "   "
 permalink: /contact/
-excerpt: "Information"
+excerpt: "   "
 
 header:
-  overlay_image: /assets/images/banner/bannercontact.jpg
+  overlay_image: /assets/images/banner/banner-contact.png
   image_description: "Contact information"
   caption: 
   overlay_filter: 

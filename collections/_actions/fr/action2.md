@@ -3,8 +3,8 @@ title: Mieux informer
 permalink: "/actions/action2/"
 excerpt: ""
 header:
-  teaser: /assets/images/actions/informer.png
-  overlay_image: /assets/images/banner/banneractionlesactions.jpg
+  teaser: /assets/images/actions/informer1.png
+  overlay_image: /assets/images/banner/banner-actions.png
   image_description: "Donner confiance aux jeunes dans leurs choix"
   caption: 
   overlay_filter: 

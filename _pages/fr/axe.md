@@ -1,6 +1,6 @@
 ---
 lang: fr
-title: "Axe: Observatoire des parcours"
+title: "  "
 permalink: /axe/
 
 collection: 
@@ -8,9 +8,9 @@ entries_layout: grid
 teaser_class: 
 sort_by: orden 
 
-excerpt: ""
+excerpt: "  "
 header:
-  overlay_image: /assets/images/banner/banneraxe2.png
+  overlay_image: /assets/images/banner/banner-observatoire.png
   image_description: "Observatoire des parcours"
   caption: 
   overlay_filter: 

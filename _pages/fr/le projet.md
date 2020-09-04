@@ -1,14 +1,15 @@
 ---
 lang: fr
-title: "Le projet"
+title: "   "
 permalink: /leprojet/
 
 
-excerpt: "Accompagnement à l'Intégration des Lycéens dans l'Enseignement Supérieur 
-(AILES)"
+excerpt: "   
+  
+  "
 header:
-  overlay_image: /assets/images/banner/banneraction1.jpg
-  image_description: "Lycée"
+  overlay_image: /assets/images/banner/banner-projet.png
+  image_description: 
   caption: 
   overlay_filter: 
 

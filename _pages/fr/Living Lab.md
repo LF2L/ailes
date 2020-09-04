@@ -1,6 +1,6 @@
 ---
 lang: fr
-title: "Living Lab"
+title: "  "
 permalink: /livinglab/
 
 collection: 
@@ -8,9 +8,9 @@ entries_layout: grid
 teaser_class: 
 sort_by: orden 
 
-excerpt: ""
+excerpt: "  "
 header:
-  overlay_image: /assets/images/banner/bannerlivinglab.jpg
+  overlay_image: /assets/images/banner/banner-livinglab.png
   image_description: "LivingLab"
   caption: 
   overlay_filter: 

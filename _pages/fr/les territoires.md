@@ -1,11 +1,14 @@
 ---
-title: "Les territoires"
+title: "   "
 permalink: /lesterritoires/
-excerpt: "Spécificités territoriales"
+excerpt: "  
+  
+  
+  "
 
 header:
-  overlay_image: /assets/images/banner/bannerterritoire5.jpg
-  image_description: "Lorraine"
+  overlay_image: /assets/images/banner/banner-territoires.png
+  image_description: "Territoires"
   caption: 
 last_modified_at: 2020-06-18
 ---

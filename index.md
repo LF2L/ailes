@@ -7,17 +7,17 @@ excerpt: "Accompagnement à l’intégration des lycéens dans l’enseignement 
 
 
 header:
-  overlay_image: /assets/images/banner/bannerindex.jpg
+  overlay_image: /assets/images/banner/banner-accueil.png
   caption: 
   overlay_filter: 
 
 
 intro: 
-  - excerpt: "Le projet Ailes vise les lycéens, les néo-étudiants, leurs familles, mais aussi l’ensemble des acteurs de l’éducation et de l’orientation. Il associe trois Universités (Université de Reims Champagne-Ardenne, Université de Lorraine, Université de technologie de Troyes) et deux Rectorats (Nancy-Metz et Reims) et bénéficie du soutien de la Caisse des dépôts et consignations dans le cadre du PIA 3."
+  - excerpt: "Le projet Ailes vise les lycéens, les néo-étudiants, leurs familles, mais aussi l’ensemble des acteurs de l’éducation et de l’orientation. Il associe trois Universités (Université de Reims Champagne-Ardenne, Université de Lorraine, Université de technologie de Troyes) et deux Rectorats (Nancy-Metz et Reims). Il s’agit d’une opération soutenue par l’Etat dans le cadre de l’action « Territoires d’innovation pédagogique » du programme d’investissement d’avenir, opéré par la Caisse des Dépôts."
  
 
 feature_row1:
-  - image_path: /assets/images/objectifs.jpg
+  - image_path: /assets/images/home/accueil-objectifs.png
     alt: "objectifs"
     title: "Objectifs"
     excerpt: '
@@ -31,7 +31,7 @@ feature_row1:
     btn_class: "btn--primary"
 
 feature_row2:
-  - image_path: /assets/images/innovation.jpg
+  - image_path: /assets/images/accueil-innovants.png
     alt: "placeholder image 2"
     title: "Un projet innovant"
     excerpt: '
