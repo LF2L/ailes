@@ -1,6 +1,6 @@
 ---
 lang: fr
-title: "  "
+title: " "
 permalink: /livinglab/
 
 collection: 

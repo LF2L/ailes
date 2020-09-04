@@ -1,12 +1,11 @@
 ---
 lang: fr
+title: ""
 layout: collection
-title: "   "
 permalink: /actions/
 collection: actions
 classes: wide
 entries_layout: grid
-excerpt: "   " 
 
 header:
   overlay_image: /assets/images/banner/banner-actions.png

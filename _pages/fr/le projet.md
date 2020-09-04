@@ -1,12 +1,7 @@
 ---
 lang: fr
-title: "   "
 permalink: /leprojet/
 
-
-excerpt: "   
-  
-  "
 header:
   overlay_image: /assets/images/banner/banner-projet.png
   image_description: 

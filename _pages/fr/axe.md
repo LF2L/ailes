@@ -1,12 +1,11 @@
 ---
 lang: fr
-title: "  "
+title: ""
 permalink: /axe/
 
 collection: 
 entries_layout: grid
-teaser_class: 
-sort_by: orden 
+
 
 excerpt: "  "
 header:

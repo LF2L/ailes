@@ -16,8 +16,8 @@ remote_theme: "mmistakes/minimal-mistakes@4.16.0"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "AILES"
-title_separator          : "|"
+title                    : ""
+title_separator          : " "
 name                     : "Projet AILES"
 description              : "Projet AILES"
 url                      : "https://lf2l.github.io"
