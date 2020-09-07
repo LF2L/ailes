@@ -18,7 +18,7 @@ intro:
  
 
 feature_row1:
-  - image_path: /assets/images/home/accueil-objectifs.png
+  - image_path: /assets/images/home/accueil-objectifs2.png
     alt: "objectifs"
     title: "Objectifs"
     excerpt: '
@@ -32,7 +32,7 @@ feature_row1:
     btn_class: "btn--primary"
 
 feature_row2:
-  - image_path: /assets/images/home/accueil-innovants.png
+  - image_path: /assets/images/home/accueil-innovants3.png
     alt: "placeholder image 2"
     title: "Un projet innovant"
     excerpt: '

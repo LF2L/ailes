@@ -1,12 +1,12 @@
 ---
 title: Faire découvrir les metiers
 permalink: "/actions/action4/"
-excerpt: ""
+excerpt: "Faire découvrir les métiers et ouvrir le champ des possibles"
 
 header:
   teaser: /assets/images/actions/decouvrir2.png
   overlay_image: /assets/images/banner/banner-actions.png
-  image_description: "Donner confiance aux jeunes dans leurs choix"
+  image_description: "Actions"
   caption: 
   overlay_filter: 
 
