@@ -1,6 +1,6 @@
 ---
 lang: fr
-title: ""
+title: "OSBERVATOIRE DES PARCOURS"
 permalink: /axe/
 
 collection: 

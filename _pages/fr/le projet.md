@@ -1,5 +1,6 @@
 ---
-title: ""
+title: LE PROJET
+excerpt: Accompagnement à l'intégration des Lycéens dans l'Enseignement Supérieur (AILES)
 lang: fr
 permalink: /leprojet/
 

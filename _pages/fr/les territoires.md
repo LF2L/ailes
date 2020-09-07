@@ -1,9 +1,7 @@
 ---
+title: LES TERRITOIRES
+excerpt: "Spécificité territoriales"
 permalink: /lesterritoires/
-excerpt: "  
-  
-  
-  "
 
 header:
   overlay_image: /assets/images/banner/banner-territoires.png

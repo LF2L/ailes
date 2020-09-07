@@ -1,4 +1,6 @@
 ---
+title: AILES
+excerpt: Accompagnement à l'intégration des Lycéens dans l'Enseignement Supérieur (AILES)
 lang: fr
 permalink: "/"
 layout: splash
@@ -69,7 +71,7 @@ feature_row3:
 {% include /AILES/Posts-FR.html %} -->
 
 
-{% include figure image_path="/assets/images/logo/bandeaulogo2.png" alt="LOGO partenaires" caption="" %}
+{% include figure image_path="/assets/images/logo/bandeaulogo3.png" alt="LOGO partenaires" caption="" %}
 
 
 

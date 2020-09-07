@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "CONTACT"
 permalink: /contact/
 
 header:

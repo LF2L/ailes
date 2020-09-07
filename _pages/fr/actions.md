@@ -1,6 +1,7 @@
 ---
+title: LES ACTIONS
+excerpt: Donner confiance aux jeunes dans leurs choix
 lang: fr
-title: ""
 layout: collection
 permalink: /actions/
 collection: actions
