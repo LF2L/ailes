@@ -1,7 +1,7 @@
 ---
 title: Favoriser l'ambition
 permalink: "/actions/action3/"
-excerpt: "Donner confiance aux jeunes dans leurs choix"
+excerpt: " "
 header:
   teaser: /assets/images/actions/ambition1.png
   overlay_image: /assets/images/banner/banner-actions.png
@@ -11,8 +11,6 @@ header:
 last_modified_at: 2020-08-20
 
 ---
-
-# Favoriser l'ambition
 
 Cet axe regroupe des actions visant à aider les jeunes à construire leur projet de formation de manière ambitieuse. Il reposera sur l’identification précise des différentes dimensions de l’autocensure.
 + **Ateliers permettant de travaillant la confiance en soi et l’ambition.** Fondés sur des pédagogies actives, ces ateliers permettront de faire prendre conscience aux jeunes de leurs compétences, notamment les compétences sociales, de savoir les identifier et les mettre en valeur. 

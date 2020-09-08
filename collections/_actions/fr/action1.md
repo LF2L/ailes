@@ -2,7 +2,7 @@
 title: Accompagner
 permalink: "/actions/action1/"
 
-excerpt: "Appuyer l’accompagnement de proximité dans les lycées"
+excerpt: " "
 
 header:
   teaser: /assets/images/actions/accompagner1.png
@@ -14,8 +14,6 @@ header:
 last_modified_at: 2020-08-20
 
 ---
-
-# Accompagner 
 
 Deux grands défis :
 + Amener les professionnels de l’enseignement à informer et accompagner les élèves dans leurs choix d’orientation ;

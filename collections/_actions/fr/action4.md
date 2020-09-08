@@ -1,7 +1,7 @@
 ---
 title: Faire découvrir les metiers
 permalink: "/actions/action4/"
-excerpt: "Faire découvrir les métiers et ouvrir le champ des possibles"
+excerpt: " "
 
 header:
   teaser: /assets/images/actions/decouvrir2.png

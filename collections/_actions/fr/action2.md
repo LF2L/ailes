@@ -1,7 +1,7 @@
 ---
 title: Mieux informer
 permalink: "/actions/action2/"
-excerpt: "Mieux informer les lycéens"
+excerpt: " "
 header:
   teaser: /assets/images/actions/informer1.png
   overlay_image: /assets/images/banner/banner-actions.png
@@ -12,9 +12,6 @@ header:
 last_modified_at: 2020-08-20
 
 ---
-
-# Mieux informer  
-
 
 Faciliter l’accès à l’information des jeunes et de leurs familles quant aux formations et la vie étudiante :
 + Investir de nouveaux **moyens de communication adaptés** aux pratiques des jeunes (communication numérique, réseaux sociaux) ;
