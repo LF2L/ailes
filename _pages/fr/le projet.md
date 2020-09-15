@@ -12,7 +12,12 @@ header:
 
 ---
 
-Le projet **AILES** (Accompagnement à l’Intégration des Lycéens dans l’Enseignement Supérieur) vise à assurer une meilleure orientation et intégration des lycéens dans l’enseignement supérieur, quels que soient leurs origines, leurs parcours, leurs compétences et leurs projets et favoriser ainsi leur épanouissement dans les études et leur insertion professionnelle. Afin de répondre à ces enjeux, notre projet poursuit donc deux objectifs majeurs centrés sur les publics cibles afin de les accompagner vers la réussite : 
+Le projet **AILES** (Accompagnement à l’Intégration des Lycéens dans l’Enseignement Supérieur) vise à assurer une meilleure orientation et intégration des lycéens dans l’enseignement supérieur, quels que soient leurs origines, leurs parcours, leurs compétences et leurs projets et favoriser ainsi leur épanouissement dans les études et leur insertion professionnelle.  
+
+{% include figure image_path="/assets/images/projet/travail-collaboratif.png" alt="Projet collaboratif" caption="" %} 
+
+
+Afin de répondre à ces enjeux, notre projet poursuit donc deux objectifs majeurs centrés sur les publics cibles afin de les accompagner vers la réussite : 
 
 + Donner envie aux jeunes de se lancer dans une démarche d’orientation de qualité et proactive, en leur fournissant des informations simples, accessibles et attractives sur les formations et leurs débouchés ;
 

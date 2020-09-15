@@ -18,13 +18,13 @@ Faciliter l’accès à l’information des jeunes et de leurs familles quant au
 + Renforcer les dispositifs d’**immersion** existants et développer l’**immersion virtuelle** ;
 + **Rapprocher l’information** des jeunes via des étudiants **ambassadeurs** (proximité générationnelle) qui interviendront dans les lycées, lors des immersions et sur les réseaux sociaux.
 
-{% include figure image_path="/assets/images/bulles/nadiadroit.png" alt="Nadia première année licence Droit" caption="" %}
+{% include figure image_path="/assets/images/bulles/T1.png" alt="Nadia première année licence Droit" caption="" %}
 
-{% include figure image_path="/assets/images/bulles/LeaL3geo.png" alt="Nadia troisième année Géographie-aménagement" caption="" %}
+{% include figure image_path="/assets/images/bulles/T2.png" alt="Nadia troisième année Géographie-aménagement" caption="" %}
 
-{% include figure image_path="/assets/images/bulles/BulleJustine.png" alt="Justine première année Psychologie" caption="" %}
+{% include figure image_path="/assets/images/bulles/T3.png" alt="Justine première année Psychologie" caption="" %}
 
-{% include figure image_path="/assets/images/bulles/BulleLina.png" alt="Lina première année Psychologie" caption="" %}
+{% include figure image_path="/assets/images/bulles/T4.png" alt="Lina première année Psychologie" caption="" %}
 
 
 
