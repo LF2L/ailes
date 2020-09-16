@@ -1,5 +1,5 @@
 ---
-title: LES ACTIONS
+title: Les actualités
 excerpt: "   "
 lang: fr
 layout: collection
