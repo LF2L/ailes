@@ -43,8 +43,8 @@
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 400 }}</p>
     {% endif %}
 
-    <p><a href="{{ post.url | relative_url }}" class="align-right btn btn--primary">{{ site.data.ui-text[page.lang].more_label | default: "Read more" }}</a></p> 
-
+    <!-- <p><a href="{{ post.url | relative_url }}" class="align-right btn btn--primary">{{ site.data.ui-text[page.lang].more_label | default: "Read more" }}</a></p> 
+ -->
   </article>
 </div>
 {% endfor %}
