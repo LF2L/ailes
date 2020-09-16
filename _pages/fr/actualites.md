@@ -2,11 +2,10 @@
 title: Les actualités
 excerpt: "   "
 lang: fr
-layout: collection
+layout: posts
 permalink: /actualites/
 collection: news
-classes: wide
-entries_layout: grid
+
 
 header:
   overlay_image: /assets/images/banner/banner-actions.png
