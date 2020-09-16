@@ -15,7 +15,10 @@ remote_theme: "mmistakes/minimal-mistakes@4.16.0"
 #minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "fr-FR"
+setlocale (LC_TIME)      : "fr_FR"
+echo strftime            : "%d %B %G"
+strtotime                : "$date1"
 title                    : ""
 title_separator          : " "
 name                     : "Projet AILES"

@@ -77,7 +77,7 @@ feature_row3:
 {% include /AILES/Posts-FR.html type="center" %}
 
 
-
+## Les partenaires
 
 {:refdef: style="text-align: center;"}
 <a href="http://banquedesterritoires.fr">![Logo Banque des territoires]({{ site.baseimg }}/ailes/assets/images/logo/banqueterritoires1.png){:height="25%" width="25%"}</a>{: refdef}{:refdef: style="text-align: center;"}
