@@ -15,9 +15,7 @@ layout: archive
   {% endfor %}
 </ul>
 
-
-<p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{% include translated_date.html date=page.date format=site.date_format %}</time></p>
- 
+{% assign postsByYear = posts | group_by_exp: 'post', 'post.date | date: "%Y"' %}
 {% for year in postsByYear %}
   <section id="{{ year.name }}" class="taxonomy__section">
     <h2 class="archive__subtitle">{{ year.name }}</h2>
