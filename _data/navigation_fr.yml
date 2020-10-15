@@ -7,8 +7,8 @@ main:
     url: /lesterritoires/
   - title: "Les actions"
     url: /actions/
-  - title: "Living Lab"
-    url: /livinglab/
+  # - title: "Living Lab"
+  #   url: /livinglab/
   - title: "Observatoire des Parcours"
     url: /axe/    
   - title: "Contact"
