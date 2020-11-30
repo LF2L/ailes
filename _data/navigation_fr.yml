@@ -10,7 +10,9 @@ main:
   - title: "Living Lab"
     url: /livinglab/
   - title: "Observatoire des Parcours"
-    url: /axe/    
+    url: /axe/  
+  - title: "Partenaires" 
+    url: /partenaires/ 
   - title: "Contact"
     url: /contact/    
 
