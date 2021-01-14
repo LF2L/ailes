@@ -30,3 +30,5 @@ fields:
     date_format: 
     time_format: 
     display_utc: false
+pages:
+- _posts/14-01-2021-testcms.md
