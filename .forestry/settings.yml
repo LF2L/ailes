@@ -8,23 +8,21 @@ sections:
   label: Pages
   create: all
 - type: directory
-  path: _people
+  path: _people/fr
   label: People
   create: all
   match: "**/*"
+  new_doc_ext: ".md"
 - type: directory
-  path: _actions
+  path: _actions/fr
   label: Actions
   create: all
   match: "**/*"
+  new_doc_ext: ".md"
 - type: directory
-  path: _publications
-  label: Publications
+  path: _posts
+  label: Actualités
   create: all
-  match: "**/*"
-- type: jekyll-posts
-  label: Post-News
-  create: documents
   match: "**/*"
   new_doc_ext: ".md"
 upload_dir: uploads
