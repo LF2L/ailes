@@ -1,0 +1,32 @@
+---
+label: Post
+hide_body: true
+fields:
+- name: Titre
+  type: text
+  config:
+    required: false
+  label: Titre
+- name: post_teaser
+  type: file
+  config:
+    maxSize: 64
+  label: post_teaser
+- name: post_description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: post_description
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
