@@ -9,8 +9,8 @@ sections:
   create: all
   new_doc_ext: md
 - type: directory
-  path: _collections/actions/fr
-  label: Actions2
+  path: _pages/fr
+  label: Pages
   create: all
   match: "**/*"
   new_doc_ext: md
