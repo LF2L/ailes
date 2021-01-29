@@ -5,15 +5,15 @@ admin_path: "/admin"
 webhook_url: 
 sections:
 - type: jekyll-pages
-  label: Pages
+  label: Index
   create: all
-  new_doc_ext: ".md"
+  new_doc_ext: md
 - type: directory
-  path: _people/fr
-  label: People
+  path: _collections/actions/fr
+  label: Actions2
   create: all
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
 - type: directory
   path: _actions/fr
   label: Actions
