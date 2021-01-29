@@ -1,6 +1,6 @@
 ---
 label: Post
-hide_body: true
+hide_body: false
 fields:
 - name: Titre
   type: text
@@ -30,14 +30,5 @@ fields:
     date_format: 
     time_format: 
     display_utc: false
-- name: texte
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: Texte
 pages:
 - _posts/2021-01-14-14-01-2021-testcms.md
