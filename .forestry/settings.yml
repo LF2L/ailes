@@ -7,12 +7,13 @@ sections:
 - type: jekyll-pages
   label: Pages
   create: all
+  new_doc_ext: ".md"
 - type: directory
   path: _people/fr
   label: People
   create: all
   match: "**/*"
-  new_doc_ext: md
+  new_doc_ext: ".md"
 - type: directory
   path: _actions/fr
   label: Actions
