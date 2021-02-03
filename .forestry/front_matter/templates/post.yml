@@ -30,6 +30,3 @@ fields:
     date_format: 
     time_format: 
     display_utc: false
-pages:
-- _posts/2021-01-14-14-01-2021-test2.md
-- _posts/2021-01-14-test.md
