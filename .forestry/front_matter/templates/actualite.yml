@@ -12,5 +12,5 @@ fields:
   name: excerpt
   label: excerpt
 pages:
+- collections/_posts/2021-02-04-2021-02-04 test-de-thibaut.md
 - collections/_posts/2021-04-02-living-lab.md
-- collections/_posts/test-de-thibaut.md
