@@ -1,6 +1,6 @@
 ---
 title: 'Living lab '
-date: 2021-02-04 00:00:00 +0100
+date: 2021-02-04T00:00:00.000+01:00
 excerpt: 'un article sur le living lab '
 
 ---
