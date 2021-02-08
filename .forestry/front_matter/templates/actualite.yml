@@ -11,6 +11,3 @@ fields:
 - type: text
   name: excerpt
   label: excerpt
-pages:
-- collections/_posts/2021-02-04-2021-02-04 test-de-thibaut.md
-- collections/_posts/2021-04-02-living-lab.md
