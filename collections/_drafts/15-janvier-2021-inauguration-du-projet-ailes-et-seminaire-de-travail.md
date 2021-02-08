@@ -8,9 +8,9 @@ Le vendredi 15 janvier 2021 s'est tenue la première assemblée du consortium r�
 
 La conférence de Régis Juanico est à nouveau visionnable via ce [lien](https://www.youtube.com/watch?v=KePorQIazFg).
 
-Régis Juanico a démontré, par sa parole engagée, sa connaissance des dynamiques et des contraintes des acteurs du terrain. Il a précisé le contexte et la réflexion qui ont amené les auteurs du rapport parlementaire à formuler les propositions suivantes :   
-   
- _Proposition n° 1 : Inscrire comme obligatoires dans l’emploi du temps des élèves de lycées les 54 heures annuelles consacrées spécifiquement à l’orientation._
+Régis Juanico a démontré, par sa parole engagée, sa connaissance des dynamiques et des contraintes des acteurs du terrain. Il a précisé le contexte et la réflexion qui ont amené les auteurs du rapport parlementaire à formuler les propositions suivantes :
+
+_Proposition n° 1 : Inscrire comme obligatoires dans l’emploi du temps des élèves de lycées les 54 heures annuelles consacrées spécifiquement à l’orientation._
 
 _Proposition n° 2 : Charger les recteurs d’académie d’évaluer la mise en œuvre de l’accompagnement à l’orientation dans les établissements._
 
