@@ -10,17 +10,17 @@ La conférence de Régis Juanico est à nouveau visionnable via ce [lien](https:
 
 Régis Juanico a démontré, par sa parole engagée, sa connaissance des dynamiques et des contraintes des acteurs du terrain. Il a précisé le contexte et la réflexion qui ont amené les auteurs du rapport parlementaire à formuler les propositions suivantes :
 
-_Proposition n° 1 : Inscrire comme obligatoires dans l’emploi du temps des élèves de lycées les 54 heures annuelles consacrées spécifiquement à l’orientation._
+**_Proposition n° 1 :_** _Inscrire comme obligatoires dans l’emploi du temps des élèves de lycées les 54 heures annuelles consacrées spécifiquement à l’orientation._
 
-_Proposition n° 2 : Charger les recteurs d’académie d’évaluer la mise en œuvre de l’accompagnement à l’orientation dans les établissements._
+**_Proposition n° 2 :_** _Charger les recteurs d’académie d’évaluer la mise en œuvre de l’accompagnement à l’orientation dans les établissements._
 
-_Proposition n° 3 : Évaluer les compétences des élèves à s’orienter selon un référentiel construit avec les experts et acteurs de terrain._
+**_Proposition n° 3 :_** _Évaluer les compétences des élèves à s’orienter selon un référentiel construit avec les experts et acteurs de terrain._
 
-_Proposition n° 4 : Généraliser les modules d’accompagnement à l’orientation dans la formation initiale et continue des enseignants._
+**_Proposition n° 4 :_** _Généraliser les modules d’accompagnement à l’orientation dans la formation initiale et continue des enseignants._
 
-_Proposition n° 5 : Préparer à l’orientation les élèves dès le collège, par des activités portant sur la connaissance de soi et sur la découverte des filières et des métiers._
+**_Proposition n° 5 :_** _Préparer à l’orientation les élèves dès le collège, par des activités portant sur la connaissance de soi et sur la découverte des filières et des métiers._
 
-_Proposition n° 6 : Dès le collège, communiquer aux élèves et aux familles un récapitulatif des interlocuteurs compétents sur les questions d’orientation (psy‑EN, enseignants, ressources ONISEP, CIO…), avec les modalités de prise de contact._
+**_Proposition n° 6 :_** _Dès le collège, communiquer aux élèves et aux familles un récapitulatif des interlocuteurs compétents sur les questions d’orientation (psy‑EN, enseignants, ressources ONISEP, CIO…), avec les modalités de prise de contact._
 
 Ces propositions et la réflexion qui les amène nourriront dans les prochains mois les modalités d’actions du projet AILES dans le secondaire.
 
@@ -34,4 +34,4 @@ L’après-midi a réuni les acteurs du projet AILES autour de **deux conférenc
 
 A la suite de ces conférences, les participants se sont répartis dans **quatre ateliers de création** qui, en prenant la forme de jeux de rôles, ont obligé les participants à se décentrer de leur axe de travail habituel dans le projet. Les uns devaient élaborer une immersion longue des écuyers dans la formation des chevaliers au Moyen-Age, tandis que les autres étaient chargés de rejoindre la Red Team composée d’auteurs de science-fiction et chargée d’imaginer les métiers du futur et la manière de les présenter. Un troisième groupe s’attelait à produire une feuille de route pour l’organisation d’un dispositif de parrainage entre le lycée François 1er de Vitry-le-François et les étudiants de l’URCA. Le dernier groupe était quant à lui chargé de lister, en recourant au scénario du pire, les principaux freins à la mise en œuvre des communautés de pratique entre enseignants du secondaire et du supérieur et de faire émerger des pistes de solution. La trame de chacun de ces jeux de rôle servira désormais de cadre de réflexion au groupe opérationnel en charge de chacune des quatre actions du projet.
 
-La **prochaine assemblée du consortium** se tiendra, si possible en présentiel en Lorraine et sinon en distanciel, le vendredi 2 juillet 2021.
+**La prochaine assemblée du consortium se tiendra, si possible en présentiel en Lorraine et sinon en distanciel, le vendredi 2 juillet 2021.**
