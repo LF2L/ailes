@@ -16,6 +16,8 @@ Faciliter l’accès à l’information des jeunes et de leurs familles quant au
 * Renforcer les dispositifs d’**immersion** existants et développer l’**immersion virtuelle** ;
 * **Rapprocher l’information** des jeunes via des étudiants **ambassadeurs** (proximité générationnelle) qui interviendront dans les lycées, lors des immersions et sur les réseaux sociaux.
 
+[Découvrir les offres de services proposés par les universités de Lorraine et de Reims Champagne-Ardenne.](https://www.projetailes.com/posts/2021/2021_03_02_offres-de-services-a-destination-des-lycees-et-lyceens/)
+
 <!-- <figure class="third">
 <figcaption><i>Cliquer sur une vignette pour afficher les témoignages</i></figcaption>
 <a href="/ailes/assets/images/bulles/tem1.jpg"><img src="/ailes/assets/images/bulles/tem1.jpg"></a>
