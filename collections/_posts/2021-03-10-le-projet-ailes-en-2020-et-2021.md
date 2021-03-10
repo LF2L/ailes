@@ -16,8 +16,8 @@ La structuration du projet s’est fait autour des **groupes opérationnels en c
 
 Cette année de mise en place s’est terminée par un moment fort lors de la **journée d’inauguration officielle du projet le vendredi 15 janvier 2021** dont vous pourrez [retrouver les détails ici](https://www.projetailes.com/posts/2021/01-15-2021-inauguration-ailes/).
 
-**Le Projet AILES en 2021   
- **  
+**Le Projet AILES en 2021**
+
 **2021 est l’année de la consolidation et de déploiement de nouvelles actions**
 
 **TalentCampus** est un activateur de talents qui casse les codes de la formation pour développer et valoriser les soft skills : Leadership, communication, confiance en soi, créativité, adaptabilité, intelligence collective… Ces compétences relationnelles qui sont clefs de succès et d’épanouissement au travail. **Talent Campus interviendra en mars 2021 dans deux lycées de l'Académie de Nancy-Metz** et deux lycées de l'Académie de Reims. Ces formations associent des professeurs du secondaire qui eux-mêmes pourront devenir formateurs lors des prochaines activités TalentCampus dans les académies. Plus d'informations sur TalentCampus : [http://www.talent-campus.fr/](http://www.talent-campus.fr/ "http://www.talent-campus.fr/")
