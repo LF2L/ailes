@@ -9,6 +9,6 @@ Le projet AILES regroupe de nombreuses actions et outils mis en place par les un
 Vous trouverez dans les deux documents suivants les différents services proposés par les universités de Reims Champagne-Ardenne et de Lorraine ainsi que les modalités de contact.
 
 * [Offre de services de l'Université de Lorraine](/uploads/offre-de-services-de-l-universite-de-lorraine.pdf "Offre de services de l'Université de Lorraine")
-* [Offre de services de l'Université de Reims Champagne-Ardenne](/uploads/plaquette_offre_services_v4.pdf "plaquette_offre_services_v5.pdf")
+* [Offre de services de l'Université de Reims Champagne-Ardenne](/uploads/plaquette_offre_services_v5.pdf "plaquette_offre_services_v5.pdf")
 
 ![](/uploads/offre_services_urca_ul.png)
