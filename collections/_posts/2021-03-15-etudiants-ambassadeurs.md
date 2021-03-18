@@ -10,4 +10,4 @@ Ces étudiants ont pour mission d’intervenir auprès des lycéens des académi
 
 Découvrez l'interview vidéo de Clara Dequin, étudiante ambassadrice de l'Université de Lorraine, qui nous explique en quoi consiste ce rôle ainsi que les bénéfices apportés aux lycéens et aux établissements.
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/yOYbMCokrgg](https://www.youtube.com/embed/yOYbMCokrgg "https://www.youtube.com/embed/yOYbMCokrgg")" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k5QVsiozqFQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
