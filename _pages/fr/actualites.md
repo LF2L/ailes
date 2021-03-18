@@ -1,12 +1,6 @@
 ---
-title: Les actualités
-permalink: /actualites/
+title: ACTUALITES
+permalink: "/actualites/"
 layout: posts
 
 ---
-
-
-
-
-
-
