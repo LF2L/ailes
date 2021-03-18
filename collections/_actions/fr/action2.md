@@ -14,9 +14,12 @@ Faciliter l’accès à l’information des jeunes et de leurs familles quant au
 
 * Investir de nouveaux **moyens de communication adaptés** aux pratiques des jeunes (communication numérique, réseaux sociaux) ;
 * Renforcer les dispositifs d’**immersion** existants et développer l’**immersion virtuelle** ;
-* **Rapprocher l’information** des jeunes via des étudiants **ambassadeurs** (proximité générationnelle) qui interviendront dans les lycées, lors des immersions et sur les réseaux sociaux.
+* **Rapprocher l’information** des jeunes via des étudiants **ambassadeurs** (proximité générationnelle) qui interviendront dans les lycées, lors des immersions et sur les réseaux sociaux. 
 
-[Découvrir les offres de services proposés par les universités de Lorraine et de Reims Champagne-Ardenne.](https://www.projetailes.com/posts/2021/2021_03_02_offres-de-services-a-destination-des-lycees-et-lyceens/)
+  
+Découvrez l'interview vidéo de Clara Dequin, étudiante ambassadrice de l'Université de Lorraine et les témoignages d'autres étudiants ambassadeurs :
+
+<iframe width="560" height="315" src="[https://www.youtube.com/embed/k5QVsiozqFQ](https://www.youtube.com/embed/k5QVsiozqFQ "https://www.youtube.com/embed/k5QVsiozqFQ")" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!-- <figure class="third">
 <figcaption><i>Cliquer sur une vignette pour afficher les témoignages</i></figcaption>
@@ -30,3 +33,5 @@ OU
 \-->
 
 {% include carousel.html height="100" unit="%" duration="10" %}
+
+[Découvrir les offres de services proposés par les universités de Lorraine et de Reims Champagne-Ardenne.](https://www.projetailes.com/posts/2021/2021_03_02_offres-de-services-a-destination-des-lycees-et-lyceens/)
