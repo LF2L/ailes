@@ -9,8 +9,8 @@ Depuis fin 2020 et début 2021, les acteurs du projet AILES accélère la cadenc
 
 **Vous trouverez dans la liste ci-dessous les différentes parutions autour du projet AILES (cette liste est régulièrement mise à jour) :**
 
-_Janvier 2021 :_ [_article sur l'Union_](/uploads/2021_01_14_union.pdf)_  
-Janvier 2021 :_ [_article sur l'Est-Eclair_](https://abonne.lest-eclair.fr/id224708/article/2021-01-19/un-dispositif-pour-donner-des-ailes-aux-lyceens)_  
-Janvier 2021 :_ [_article sur AEF Info_](https://www.aefinfo.fr/depeche/643734)_  
-Février 2021 : article sur l'Est-Eclair  
-Mars 2021 : article sur Vosges Matin_
+Janvier 2021 : [article sur l'Union](/uploads/2021_01_14_union.pdf)  
+Janvier 2021 : [article sur l'Est-Eclair](https://abonne.lest-eclair.fr/id224708/article/2021-01-19/un-dispositif-pour-donner-des-ailes-aux-lyceens)  
+Janvier 2021 : [article sur AEF Info](https://www.aefinfo.fr/depeche/643734)  
+Février 2021 : [article sur l'Est-Eclair](/uploads/2021_02_02_est_eclair.pdf)  
+Mars 2021 : [article sur Vosges Matin](/uploads/2021_03_vosges_matin_talent_campus.pdf)
