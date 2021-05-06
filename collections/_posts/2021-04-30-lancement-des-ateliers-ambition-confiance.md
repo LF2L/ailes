@@ -22,4 +22,8 @@ Les élèves entrent dans la salle, un peu déstabilisés par sa mise en place, 
 
 Dans un premier temps, collectivement, les participants déterminent unanimement les règles qui vont définir leur cadre de travail pour cette journée. Les activités se succèdent dans le respect de la parole de chacun, dans la bonne humeur, le maître-mot est « Point de vue ». Les lycéens réfléchissent autour du stage idéal, de la notion de mobilité. Ils découvrent également l’histoire d’Abygaëlle, une héroïne pas ordinaire en passant par la construction du « Mur de la Terreur ». Les personnels semblent eux aussi enthousiasmés par la découverte des pédagogies actives développées auprès des lycéens afin de leur donner confiance en leurs choix d’orientation.
 
-![](/uploads/2021_03_article_talent_campus-sur-site-ailes_2.jpg)![](/uploads/2021_03_article_talent_campus-sur-site-ailes.jpg)![Article paru dans Vosges Matin](/uploads/doc01919020210329134649_001.jpg "article vosges matin")
+[Cliquez ici pour voir l'article paru dans Vosges matin.](/uploads/2021_03_vosges_matin_talent_campus.pdf)
+
+_Photos des ateliers :_
+
+![](/uploads/2021_03_article_talent_campus-sur-site-ailes_2.jpg)![](/uploads/2021_03_article_talent_campus-sur-site-ailes.jpg)
