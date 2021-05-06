@@ -5,7 +5,7 @@ excerpt: Depuis fin 2020 et début 2021, les acteurs du projet AILES accélère 
   et les actions se déploient au sein des territoires lorrain et champardennais.
 
 ---
-Depuis fin 2020 et début 2021, les acteurs du projet AILES accélère la cadence et les actions se déploient au sein des territoires lorrain et champardennais. Divers médias suivent d’un œil attentif ce déploiement et cela se traduit par une couverture médiatique donnant régulièrement lieu à des publications traitant ou évoquant le projet AILES.
+Depuis fin 2020 et début 2021, les acteurs du projet AILES accélèrent la cadence et les actions se déploient au sein des territoires lorrain et champardennais. Divers médias suivent d’un œil attentif ce déploiement et cela se traduit par une couverture médiatique donnant régulièrement lieu à des publications traitant ou évoquant le projet AILES.
 
 **Vous trouverez dans la liste ci-dessous les différentes parutions autour du projet AILES (cette liste est régulièrement mise à jour) :**
 
