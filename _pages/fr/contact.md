@@ -8,7 +8,7 @@ header:
   overlay_filter: 
 
 ---
-## REVUE DE PRESSE
+## Revue de presse
 
 Depuis fin 2020 et début 2021, les acteurs du projet AILES accélèrent la cadence et les actions se déploient au sein des territoires lorrain et champardennais. Divers médias suivent d’un œil attentif ce déploiement et cela se traduit par une couverture médiatique donnant régulièrement lieu à des publications traitant ou évoquant le projet AILES.
 
