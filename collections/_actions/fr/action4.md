@@ -16,4 +16,4 @@ Cet axe vise à faire découvrir aux élèves des domaines professionnels et des
 * **BTP.** Ce secteur partage un même déficit d’image alors même que les nouvelles technologies ont conduit à une mutation des métiers et des besoins.
 * **R&D.** Ces métiers constituent une vitrine incontournable des universités.
 
-[Découvrir les offres de services proposés par les universités de Lorraine et de Reims Champagne-Ardenne.](https://www.projetailes.com/posts/2021/2021_03_02_offres-de-services-a-destination-des-lycees-et-lyceens/)
+[Découvrir les offres de services proposés l'Université de Reims Champagne-Ardenne.](https://www.projetailes.com/posts/2021/2021_03_02_offres-de-services-a-destination-des-lycees-et-lyceens/)
