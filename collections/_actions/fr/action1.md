@@ -21,4 +21,4 @@ Trois dispositifs :
 * Des communautés de pratiques mixtes secondaire/supérieur ;
 * Le développement de ressources numériques pour l’autoformation.
 
-[Découvrir les offres de services proposés par les universités de Lorraine et de Reims Champagne-Ardenne.](https://www.projetailes.com/posts/2021/2021_03_02_offres-de-services-a-destination-des-lycees-et-lyceens/)
+[Découvrir les offres de services proposés l'Université de Reims Champagne-Ardenne.](https://www.projetailes.com/posts/2021/2021_03_02_offres-de-services-a-destination-des-lycees-et-lyceens/)
