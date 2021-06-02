@@ -20,4 +20,4 @@ Cet axe regroupe des actions visant à aider les jeunes à construire leur proje
 
 En parallèle, sera menée une action spécifique sur la liaison entre les lycées proposant la mention STMG et les IUT afin de travailler la complémentarité de ces différents dispositifs sur une filière.
 
-[Découvrir les offres de services proposés par les universités de Lorraine et de Reims Champagne-Ardenne.](https://www.projetailes.com/posts/2021/2021_03_02_offres-de-services-a-destination-des-lycees-et-lyceens/)
+[Découvrir les offres de services proposés l'Université de Reims Champagne-Ardenne.](https://www.projetailes.com/posts/2021/2021_03_02_offres-de-services-a-destination-des-lycees-et-lyceens/)
