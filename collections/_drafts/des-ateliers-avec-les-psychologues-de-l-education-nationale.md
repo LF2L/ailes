@@ -53,3 +53,5 @@ La démarche Living Lab cherche à se rapprocher au maximum des **contextes de l
 Enfin, la démarche Living Lab est **itérative**. On construit les solutions avec les acteurs de façon incrémentale et progressive. C’est en travaillant au plus près des acteurs et en validant les propositions à chaque étape du processus, que l’on s’assure que les solutions retenues sont pertinentes et acceptées par l’ensemble de la communauté.
 
 En cela, la démarche Living Lab est une approche profondément **centrée sur l’humain.** Dans le projet AILES, elle s’adresse aux lycéens et à son entourage et vise à faire **participer** activement les acteurs de terrain d’un **écosystème** dans des **conditions réelles** afin de construire **pas à pas** les meilleures conditions d’accompagnement à l’orientation des lycéens.
+
+![](/uploads/schema-living-lab.png)
