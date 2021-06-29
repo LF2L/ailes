@@ -42,6 +42,8 @@ L’objectif de cette journée était de répondre à la question du « Quoi ? �
 
 Cette séance de co-construction permettra d’affiner la préparation de la forme et du contenu des ateliers, en vue des premiers essais au mois d’octobre. Le déploiement de ces premiers ateliers amorcera un travail de conception itérative entre PsyEN et chercheurs de l’UTT, qui devrait durer au moins l’année universitaire 2021-2022.
 
+![](/uploads/dscf6586.JPG)
+
 **Au cœur de la démarche Living Lab**
 
 La démarche LivingLab est une **démarche participative** qui s’adresse à tous les acteurs concernés par un sujet ou une problématique, par exemple l’orientation. C’est une démarche ascendante dans laquelle les chercheurs travaillent _avec_ les acteurs du terrain, à partir de leurs besoins et problématiques, en vue de co-concevoir les solutions envisageables. Elle place le jeune au centre du processus – avec une prise en compte de sa perspective et de ses besoins - et permet que l’ensemble des acteurs concernés par la thématique de l’orientation soient entendus.
