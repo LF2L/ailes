@@ -6,7 +6,7 @@ excerpt: Dans le cadre de l’action transverse Living Lab, des ateliers de renc
   psychologues de l’éducation nationale (PsyEN).
 
 ---
-Dans le cadre de l’action transverse Living Lab, des ateliers de rencontre ont été organisés au Living Lab de l’Université de technologie de Troyes avec cinq psychologues de l’éducation nationale (PsyEN). Sur trois demi-journées, ces ateliers ont permis aux PsyEN de rencontrer les chercheurs du Living Lab du laboratoire LL2A (Living Lab ActivAgeing) de l’Université de Technologie de Troyes. L’objectif de ces ateliers est double. Le premier consiste à s’interroger collectivement sur les pratiques et les besoins du métier de PsyEN. Le second à échanger sur des méthodes et des connaissances afin de co-concevoir les futures actions à mener dans les quatre départements qui composent l’Académie de Reims.
+_Dans le cadre de l’action transverse Living Lab, des ateliers de rencontre ont été organisés au Living Lab de l’Université de technologie de Troyes avec cinq psychologues de l’éducation nationale (PsyEN). Sur trois demi-journées, ces ateliers ont permis aux PsyEN de rencontrer les chercheurs du Living Lab du laboratoire LL2A (Living Lab ActivAgeing) de l’Université de Technologie de Troyes. L’objectif de ces ateliers est double. Le premier consiste à s’interroger collectivement sur les pratiques et les besoins du métier de PsyEN. Le second à échanger sur des méthodes et des connaissances afin de co-concevoir les futures actions à mener dans les quatre départements qui composent l’Académie de Reims._
 
 **Les profils des participants :**
 
