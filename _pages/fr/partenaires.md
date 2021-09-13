@@ -18,7 +18,7 @@ header:
 ## Associés
 
   
-![](/uploads/region-academique.png)
+![](/uploads/grand_est_logo.png)
 
 ***
 
