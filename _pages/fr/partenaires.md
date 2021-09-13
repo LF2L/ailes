@@ -10,26 +10,22 @@ header:
 ---
 ## Partenaires
 
-  
-![](/uploads/urca.png)![](/uploads/ul.png)![](/uploads/utt.png)![](/uploads/2020_logo-ac-reims.png)![](/uploads/19_logoac_nancy_metz_sd.png)
+![](/uploads/urca.png)![](/uploads/ul.png)![](/uploads/utt.png)![](/uploads/2020_logo-ac-reims.png)![](/uploads/19_logoac_nancy_metz_sd.png) 
 
 ***
 
 ## Associés
 
-  
 ![](/uploads/grand_est_logo.png)
 
 ***
 
 ## Financeurs
 
-  
 ![](/uploads/grand-reims.png)
 
 ***
 
 ## Opérateur
 
-  
 ![](/uploads/investir-avenir.png)![](/uploads/banque-territoire.png)
