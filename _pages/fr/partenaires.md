@@ -19,7 +19,7 @@ published: false
 ## Associés
 
   
-![](/uploads/investir-avenir.png)![](/uploads/banque-territoire.png)![](/uploads/grand-reims.png)
+![](/uploads/region-academique.png)
 
 ***
 
