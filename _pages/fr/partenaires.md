@@ -6,7 +6,6 @@ header:
   image_description: Partenaires
   caption: 
   overlay_filter: 
-published: false
 
 ---
 ## Partenaires
