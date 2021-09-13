@@ -26,11 +26,11 @@ published: false
 ## Financeurs
 
   
-![](/uploads/investir-avenir.png)![](/uploads/banque-territoire.png)![](/uploads/grand-reims.png)
+![](/uploads/grand-reims.png)
 
 ***
 
 ## Opérateur
 
   
-![](/uploads/investir-avenir.png)![](/uploads/banque-territoire.png)![](/uploads/grand-reims.png)
+![](/uploads/investir-avenir.png)![](/uploads/banque-territoire.png)
