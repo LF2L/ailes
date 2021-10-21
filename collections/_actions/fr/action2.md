@@ -32,5 +32,3 @@ OU
 \-->
 
 {% include carousel.html height="100" unit="%" duration="10" %}
-
-[Découvrir les offres de services proposés l'Université de Reims Champagne-Ardenne.](https://www.projetailes.com/posts/2021/2021_03_02_offres-de-services-a-destination-des-lycees-et-lyceens/)
