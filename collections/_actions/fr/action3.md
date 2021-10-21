@@ -19,5 +19,3 @@ Cet axe regroupe des actions visant à aider les jeunes à construire leur proje
 * **Actions spécifiques à destination des jeunes en réorientation**, afin de travailler ensemble l’information, l’accompagnement et la confiance en soi des jeunes en réorientation pour leur permettre de mieux préparer et vivre leur réorientation. Différents dispositifs seront testés, transformés ou étendus : ateliers « Se réorienter ou pas ! », bilan approfondi, dispositif Ricocher (en partenariat avec la Région Grand Est), etc.
 
 En parallèle, sera menée une action spécifique sur la liaison entre les lycées proposant la mention STMG et les IUT afin de travailler la complémentarité de ces différents dispositifs sur une filière.
-
-[Découvrir les offres de services proposés l'Université de Reims Champagne-Ardenne.](https://www.projetailes.com/posts/2021/2021_03_02_offres-de-services-a-destination-des-lycees-et-lyceens/)

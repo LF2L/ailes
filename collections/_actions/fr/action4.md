@@ -15,5 +15,3 @@ Cet axe vise à faire découvrir aux élèves des domaines professionnels et des
 * **Industrie.** Notre territoire est historiquement maillé par l’industrie mais ce secteur, extrêmement important dans notre région, souffre d’un déficit d’image tout en étant fortement pourvoyeur d’emplois.
 * **BTP.** Ce secteur partage un même déficit d’image alors même que les nouvelles technologies ont conduit à une mutation des métiers et des besoins.
 * **R&D.** Ces métiers constituent une vitrine incontournable des universités.
-
-[Découvrir les offres de services proposés l'Université de Reims Champagne-Ardenne.](https://www.projetailes.com/posts/2021/2021_03_02_offres-de-services-a-destination-des-lycees-et-lyceens/)
