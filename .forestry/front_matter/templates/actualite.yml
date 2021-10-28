@@ -12,6 +12,7 @@ fields:
   name: excerpt
   label: excerpt
 pages:
+- collections/_posts/15-octobre-2021-assemblee-du-consortium-du-projet-ailes.md
 - collections/_posts/2021-03-10-le-projet-ailes-en-2020-et-2021.md
 - collections/_posts/2021-03-15-etudiants-ambassadeurs.md
 - collections/_posts/2021-04-30-lancement-des-ateliers-ambition-confiance.md
