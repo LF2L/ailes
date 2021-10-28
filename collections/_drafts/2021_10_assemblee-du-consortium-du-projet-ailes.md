@@ -15,7 +15,7 @@ La transition des néo-bacheliers vers l’université est un axe de travail fon
 
 Les travaux de Saeed PAIVANDI présentent ce moment de transition au travers d'enquêtes fouillées auprès de néo-bacheliers et d'étudiants plus avancés dans leur cursus. Ses recherches mettent à jour les attentes et les difficultés rencontrées lors de l'arrivée à l’université. Elles évoquent par ailleurs la réalité de la vie sur les campus.
 
-**LIEN VERS LE REPLAY**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jJhVpDCwJ38" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Cette réflexion s’est poursuivie l’après-midi, plus particulièrement sur le rôle des parents dans l’orientation. Cette réflexion a pris la forme d’ateliers de travail réunissant les acteurs du Projet AILES. Les résultats de ces réflexions permettront d’orienter de futures actions déployées dans le cadre du projet.
 
