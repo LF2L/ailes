@@ -10,7 +10,7 @@ header:
 ---
 ## Partenaires
 
-![](/uploads/urca.png)![](/uploads/ul.png)![](/uploads/utt.png)![](/uploads/2020_logo-ac-reims.png)![](/uploads/19_logoac_nancy_metz_sd.png) 
+![](/uploads/urca.png)![](/uploads/ul.png)![](/uploads/utt.png)![](/uploads/2020_logo-ac-reims.png)![](/uploads/19_logoac_nancy_metz_sd.png)
 
 ***
 
