@@ -24,3 +24,15 @@ De par cette démarche, les différentes solutions qui pourront être déployée
 L’objectif de ce type de démarche est l’efficacité. Nos retours d’expériences ainsi que la littérature scientifique témoignent que l’implication des utilisateurs finaux dès le début de la démarche de conception facilite la réalisation de solutions durables, pérennes, adoptées et acceptées.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yOYbMCokrgg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Journée Innovation des acteurs du projet AILES - 1er décembre 2021
+
+L'innovation est l'une des exigences du cahier des charges du projet AILES. Les différents partenaires du projet AILES se sont retrouvés le 1er décembre 2021 au Lorraine Fab Living Lab pour une journée dédiée à cette notion. 
+
+Au programme : 
+
+* une conférence intitulée "L'ingénierie de l'Innovation et l'apport de la démarche Living Lab" par les Pr. Vincent Boly, Pr. Davy Monticolo, Dr. Raphael Bary, Dr. Manon Enjolras. 
+* Un atelier "Découverte des outils et méthodes pour l'innovation Projets/Produits/Services". Introduction aux concepts de base de l'ingénierie de l'innovation (degré de nouveauté, degré d'innovation, courbe de caractéristique, etc).
+* un atelier "Appliquer les outils et méthodes de l'ingénierie de l'innovation aux actions du projet AILES"
+
+Replay de la conférence inaugurale : lien à venir. 
