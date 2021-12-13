@@ -39,6 +39,6 @@ Au programme :
 
 Replay de la conférence inaugurale : lien à venir.
 
-### Des ateliers avec les psychologues de l’Education Nationale
+### Des ateliers avec les psychologues de l’Education Nationale à l'UTT
 
 [Voir le contenu ici. ](https://www.projetailes.com/posts/2021/des-ateliers-avec-les-psychologues-de-l-education-nationale/ "Consulter ici le contenu.")
