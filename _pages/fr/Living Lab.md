@@ -35,7 +35,7 @@ Au programme :
 * Un atelier "Découverte des outils et méthodes pour l'innovation Projets/Produits/Services". Introduction aux concepts de base de l'ingénierie de l'innovation (degré de nouveauté, degré d'innovation, courbe de caractéristique, etc).
 * un atelier "Appliquer les outils et méthodes de l'ingénierie de l'innovation aux actions du projet AILES"
 
-Powerpoint support de la conférence inaugurale : lien à venir.
+[Powerpoint support de la conférence inaugurale](/uploads/presentationjournee011221-slides-innovation.pdf)
 
 Replay de la conférence inaugurale : lien à venir.
 
