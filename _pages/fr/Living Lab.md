@@ -38,3 +38,7 @@ Au programme :
 Powerpoint support de la conférence inaugurale : lien à venir.
 
 Replay de la conférence inaugurale : lien à venir.
+
+### Des ateliers avec les psychologues de l’Education Nationale
+
+[Voir le contenu ici. ](https://www.projetailes.com/posts/2021/des-ateliers-avec-les-psychologues-de-l-education-nationale/ "Consulter ici le contenu.")
