@@ -39,7 +39,7 @@ Au programme :
 
 Replay de la conférence inaugurale :
 
-<iframe width="660" height="371" src="[https://www.youtube.com/embed/3zGQdZaQ1IA](https://www.youtube.com/embed/3zGQdZaQ1IA "https://www.youtube.com/embed/3zGQdZaQ1IA")" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="660" height="371" src="https://www.youtube.com/embed/3zGQdZaQ1IA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Des ateliers avec les psychologues de l’Education Nationale à l'UTT
 
