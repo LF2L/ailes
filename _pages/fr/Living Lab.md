@@ -37,7 +37,9 @@ Au programme :
 
 [Powerpoint support de la conférence inaugurale](/uploads/presentationjournee011221-slides-innovation.pdf)
 
-Replay de la conférence inaugurale : lien à venir.
+Replay de la conférence inaugurale :
+
+<iframe width="660" height="371" src="[https://www.youtube.com/embed/3zGQdZaQ1IA](https://www.youtube.com/embed/3zGQdZaQ1IA "https://www.youtube.com/embed/3zGQdZaQ1IA")" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Des ateliers avec les psychologues de l’Education Nationale à l'UTT
 
