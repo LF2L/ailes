@@ -22,7 +22,7 @@ Afin de répondre à ces enjeux, notre projet poursuit donc deux objectifs majeu
 
 Découvrir le projet en 3 min en visionnant le film d'animation : 
 
-<iframe width="1214" height="683" src="[https://www.youtube.com/embed/4a-joEYaM-8](https://www.youtube.com/embed/4a-joEYaM-8 "https://www.youtube.com/embed/4a-joEYaM-8")" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1214" height="683" src="https://www.youtube.com/embed/4a-joEYaM-8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Lauréat d’un appel à projet **Dispositifs territoriaux pour l’orientation vers les études supérieures** du PIA 3 (Programme d’investissements d’avenir), Ailes bénéficie d’un financement de la Caisse des Dépôts et Consignations pour une durée de dix ans. Il associe plusieurs universités du Grand Est (Université de Lorraine, Université de Reims Champagne-Ardenne, Université technologique de Troyes) et deux rectorats (Nancy-Metz et Reims).
 
