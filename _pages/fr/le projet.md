@@ -20,7 +20,7 @@ Afin de répondre à ces enjeux, notre projet poursuit donc deux objectifs majeu
 * Donner envie aux jeunes de se lancer dans une démarche d’orientation de qualité et proactive, en leur fournissant des informations simples, accessibles et attractives sur les formations et leurs débouchés ;
 * Leur donner confiance et limiter l’autocensure, en les aidant à surmonter leurs craintes et à se défaire de représentations inhibitrices pour oser et explorer l’horizon des possibles.
 
-Découvrir le projet en 3 min en visionnant le film d'animation : 
+Découvrir le projet en 3 min en visionnant le film d'animation :
 
 <iframe width="1214" height="683" src="https://www.youtube.com/embed/4a-joEYaM-8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
