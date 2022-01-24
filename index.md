@@ -16,7 +16,7 @@ intro:
     de technologie de Troyes) et deux Rectorats (Nancy-Metz et Reims). Il s’agit d’une
     opération soutenue par l’Etat dans le cadre de l’action « Territoires d’innovation
     pédagogique » du programme d’investissement d’avenir, opéré par la Caisse des
-    Dépôts.
+    Dépôts et Consignations.
 feature_row1:
 - image_path: "/assets/images/home/accueil-objectifs2.png"
   alt: objectifs
@@ -83,4 +83,4 @@ feature_row3:
 ![white space]({{ site.baseimg }}/assets/images/logo/blanc.png){:height="5%" width="5%"}{: refdef}{:refdef: style="text-align: center;"}
 <a href="http://www.ac-reims.fr/cid105679/region-academique-grand-est.html">![Logo Region Academique]({{ site.baseimg }}/assets/images/logo/region1.png){:height="20%" width="20%"}</a>{: refdef}{:refdef: style="text-align: center;"}
 ![white space]({{ site.baseimg }}/assets/images/logo/blanc.png){:height="5%" width="5%"}{: refdef}{:refdef: style="text-align: center;"}
-{: refdef}  
+{: refdef}
