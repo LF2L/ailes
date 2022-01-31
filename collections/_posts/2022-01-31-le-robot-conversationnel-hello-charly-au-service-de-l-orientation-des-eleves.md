@@ -1,6 +1,6 @@
 ---
 title: Le robot conversationnel Hello Charly au service de l'orientation des élèves
-date: 2022-01-31 00:00:00 +0100
+date: 2022-01-31 10:00:00 +0100
 excerpt: ''
 
 ---
