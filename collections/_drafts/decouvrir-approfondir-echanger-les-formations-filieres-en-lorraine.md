@@ -1,5 +1,5 @@
 ---
-title: 'Découvrir, approfondir, échanger : les formations filières en Lorraine.'
+title: 'Découvrir, approfondir, échanger : les formations filières en Lorraine'
 date: 2022-04-11 00:00:00 +0200
 excerpt: ''
 
