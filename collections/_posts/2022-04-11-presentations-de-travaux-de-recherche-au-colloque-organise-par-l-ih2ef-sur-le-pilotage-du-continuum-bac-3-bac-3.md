@@ -1,7 +1,7 @@
 ---
 title: Présentations de travaux de recherche au colloque organisé par l’IH2EF sur
   le pilotage du continuum bac-3 / bac+3
-date: 2022-04-11 00:00:00 +0200
+date: 2022-04-11 10:00:00 +0200
 excerpt: ''
 
 ---
