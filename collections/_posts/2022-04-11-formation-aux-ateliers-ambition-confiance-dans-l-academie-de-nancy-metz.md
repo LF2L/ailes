@@ -12,6 +12,6 @@ De nouveaux ateliers sont également en cours de planification pour le mois de s
 
 Professionnels de l’académie de Nancy-Metz, vous souhaitez venir observer et découvrir la philosophie de ces ateliers ? Rien de plus simple : signalez-vous auprès du SAIO en adressant un mail : ce.saio@ac-nancy-metz.fr. En amont de la journée d'observation, vous aurez accès à un module sur la plateforme M@gistère dans lequel vous trouverez des témoignages d'animateurs, mais aussi des illustrations des conducteurs pédagogiques et des plaquettes de présentation.
 
-<iframe width="896" height="504" src="[https://www.youtube.com/embed/NMgf1st2qmE](https://www.youtube.com/embed/NMgf1st2qmE "https://www.youtube.com/embed/NMgf1st2qmE")" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="896" height="504" src="https://www.youtube.com/embed/NMgf1st2qmE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Si vous souhaitez des informations complémentaires, vous pouvez également prendre contact avec la chargée de mission par mail: [lucie.antoine@ac-nancy-metz.fr]().
