@@ -4,7 +4,7 @@ date: 2022-04-11 00:00:00 +0200
 excerpt: ''
 
 ---
-Donner accès à une information actualisée, prendre le temps pour des échanges riches entre acteurs du secondaire et du supérieur, mais aussi celui de la réflexion sur ses propres pratiques : tels sont les objectifs de l’action 1 « Plan de formation continue du projet AILES » et, plus précisément, du dispositif « formation filières » mis en œuvre conjointement par le rectorat de Nancy-Metz et l’Université de Lorraine.
+Donner accès à une information actualisée, prendre le temps pour des échanges riches entre acteurs du secondaire et du supérieur, mais aussi celui de la réflexion sur ses propres pratiques : tels sont les objectifs de l’action 1 "Plan de formation continue du projet AILES" et, plus précisément, du dispositif "formation filières" mis en œuvre conjointement par le rectorat de Nancy-Metz et l’Université de Lorraine.
 
 ![](/uploads/nl_5_3.jpg)
 
