@@ -31,7 +31,7 @@ Accueil identique en tous points à celui qui est ou serait organisé pour des l
 * Si possible visite de différents pôles avec un petit groupe d’étudiants: administratif, médical, documentation, orientation, social, associatif, sportif…
 * Echange avec les responsables des formations, les enseignants, le chef d’établissement…
 
-**Lieux d’immersion :**
+**Lieux d’immersion** 
 
 Demandez le catalogue au SAIO (ce.saio@ac-reims.fr).
 
