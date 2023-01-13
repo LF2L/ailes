@@ -22,6 +22,8 @@ Confronter ses représentations d’un métier. Une fois par mois, réflexion su
 
 Certaines de ces actions sont en cours de réalisation, d’autres comme l’immersion prolongée sont à l’étude. La première année de travail a eu deux objectifs : créer les ateliers et assurer le suivi dans les établissements. La création des ateliers s’est faite de façon itérative et a empiété sur l’année scolaire, ne laissant pas toujours le temps aux professionnels et aux lycéens d’aller au bout de leur action.
 
+![](/uploads/ll_utt.jpg)
+
 **Formation**
 
 Dans le but de partager la démarche et ses bonnes pratiques, une formation inscrite au Plan Académique de Formation de l’Académie de Reims s’est déroulée le lundi 17 octobre à l’UTT. L’objectif était de permettre à d’autres PsyEN de l’Académie de faire l’expérience de la démarche et de leur proposer de prendre part à leur tour à l’animation d’ateliers dans leurs établissements respectifs.
@@ -37,6 +39,8 @@ La seconde partie de cette journée de formation a permis aux PsyEN ayant constr
 **Conclusions**
 
 Les ateliers construits et animés dans les établissements répondent à plusieurs besoins des lycéens : être écouté, être acteur, tisser du lien, faire concrètement, pouvoir s’exprimer ouvertement dans un cadre sécurisant.
+
+![](/uploads/ll_utt2.jpg)
 
 **Le format retenu est le suivant :**
 
