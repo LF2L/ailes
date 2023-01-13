@@ -6,6 +6,8 @@ excerpt: ''
 ---
 Dans le cadre de l’action transverse Living Lab, des sessions de co-construction ont été organisées à l’Université de technologie de Troyes (UTT) entre mars 2021 et juin 2022. Sur huit demi-journées, les premières sessions ont permis aux PsyEN de construire des ateliers pour les lycéens. Ces ateliers avaient pour objectif de permettre aux jeunes d’exprimer leurs difficultés en matière d’orientation et d’imaginer des actions pertinentes. En 2022, plusieurs ateliers ont été co-animés par les PsyEN dans les établissements tout au long de l’année et des débuts d’actions ont pu voir le jour. A leur suite, une journée de formation animée par ces PsyEN a eu lieu le lundi 17 octobre 2022 à l’UTT. Cette journée a permis à d’autres PsyEN de l’Académie de faire l’expérience de la démarche. Ces ateliers sont en cours de renouvellement et d’essaimage pour l’année scolaire en cours.
 
+![](/uploads/ll_utt.jpg)
+
 **Ateliers dans les lycées**
 
 Dans le cadre de l’action transverse Living Lab, des matinées organisées au Living Lab de l’Université de technologie de Troyes (UTT) ont permis à des Psychologues de l’éducation nationale (PsyEN) de créer des ateliers pour les lycéens (insérer un renvoi sur l’article de la newsletter précédente). A l’origine, ces ateliers cherchaient à donner de l’espace et du temps aux lycéens pour exprimer leurs questionnements en matière d’orientation et à spécifier les actions pertinentes pour eux. Les thématiques de travail envisagées étaient en lien avec l’estime de soi et la confiance en soi, la prise de décision et le processus de choix, la motivation, la connaissance de soi et de nombreuses compétences psycho-émotionnelles nécessaires à la construction d’un projet d’orientation éclairé et en accord avec l’individualité de chaque jeune.
@@ -21,8 +23,6 @@ Mieux se préparer, se rassurer, être suivi et accompagné. Organiser des group
 Confronter ses représentations d’un métier. Une fois par mois, réflexion sur les représentations d’un métier (ex : infirmier.e) par des affiches puis inviter des professionnels (ou capsule vidéo) pour confronter la perception du métier avec la réalité. Un débriefing en groupe et restitution à d’autres élèves étaient également envisagés
 
 Certaines de ces actions sont en cours de réalisation, d’autres comme l’immersion prolongée sont à l’étude. La première année de travail a eu deux objectifs : créer les ateliers et assurer le suivi dans les établissements. La création des ateliers s’est faite de façon itérative et a empiété sur l’année scolaire, ne laissant pas toujours le temps aux professionnels et aux lycéens d’aller au bout de leur action.
-
-![](/uploads/ll_utt.jpg)
 
 **Formation**
 
