@@ -8,7 +8,9 @@ Comme l’an dernier il est proposé aux équipes éducatives de l’Académie d
 
 BTS, BTSA, CPGE, DNMADE, formations aux soins infirmiers, manipulation radiologique, kinésithérapie, Sciences poliques, sont autant de formations porposées dans le cadre de l'immersion par des lycées, des IFSI, Sciences po, l'UTT, l'ICP...
 
-A l’URCA deux semaines en mars 2023 seront dédiées à l’accueil des équipes éducatives du secondaire dans le cadre de l’opération « Retour en Amphi » (du lundi 6 au vendredi 17 mars). Plus d’informations à cette [page](https://www.univ-reims.fr/orientation-et-insertion/transition-lycee-universite/ressources-pour-les-equipes-pedagogiques/retour-en-amphi-immersions-des-enseignants/retour-en-amphi-immersions-des-enseignants,26483,43422.html). 
+A l’URCA deux semaines en mars 2023 seront dédiées à l’accueil des équipes éducatives du secondaire dans le cadre de l’opération « Retour en Amphi » (du lundi 6 au vendredi 17 mars). Plus d’informations à cette [page](https://www.univ-reims.fr/orientation-et-insertion/transition-lycee-universite/ressources-pour-les-equipes-pedagogiques/retour-en-amphi-immersions-des-enseignants/retour-en-amphi-immersions-des-enseignants,26483,43422.html).
+
+![](/uploads/retour_en_amphi.png)
 
 Les IUT de Reims-Chalons-Charleville et de Troyes proposent également d’autres dates. En tout, 21 centres de formations du supérieur participent à cette initiative sur l’ensemble du territoire de l’académie. A ce jour, 16 participants enseignants, CPE et PsyEn sont positionnés pour faire une journée d’immersion
 
@@ -49,24 +51,24 @@ Utiliser les immersions des enseignants dans diverses formations du supérieur p
 
 Elèves de 2GT principalement, 1re et terminale en fonction de leur profil individuel
 
-**Calendrier**   
- janvier-février
+**Calendrier**  
+janvier-février
 
-**Déroulement**   
- 4 ou 5 étapes :
+**Déroulement**  
+4 ou 5 étapes :
 
 * Etape 1 : les élèves effectuent des recherches sur des domaines d’études (EPS, Droit, Sciences…) et non sur les métiers. Ils utilisent pour cela le site ONISEP, rubrique « Après-Bac » - « principaux domaines d’études ». Ils préparent des questions à poser : aux enseignants et autres personnels du lycée aux enseignants des autres lycées participant aux immersions via le projet AILES.
 * Etape 2 : les élèves collectent les réponses et listent les questions restées sans réponse.
 * Etape 3 : les enseignants vont aller chercher les réponses complémentaires lors des immersions qui devront comprendre a minima :  
-   Une visite de l’établissement  
-   Une rencontre avec les personnels  
-   La participation à un cours  
-   Une rencontre avec des étudiants
+  Une visite de l’établissement  
+  Une rencontre avec les personnels  
+  La participation à un cours  
+  Une rencontre avec des étudiants
 * Etape 4 : les enseignants qui sont allés en immersion complètent les réponses aux questions des élèves.
 * Etape 5 : les informations recueillies peuvent être mises en commun sous forme de Padlet ou autre espace collaboratif et être partagées avec les autres lycées du projet AILES.
 
 Prolongement possible : ce travail peut également servir à préparer et exploiter les immersions faites par les élèves eux-mêmes pour ce qui concerne les élèves de 1re et terminale et/ou les réponses aux questions des élèves de 2GT peuvent être fournies par les élèves de 1re / terminale qui vont en immersion.
 
-**Conclusion** :
+**Conclusion**
 
 Cette action intéresse les enseignants et a permis d’enclencher une dynamique d’accompagnement. Deux enseignants ont demandé à poursuivre la démarche en proposant des immersions à un groupe d’élèves. Au-delà de la connaissance de la filière et de la découverte du monde étudiant, les professeurs témoignent de la nécessité de préparer une immersion et de pouvoir ensuite l’analyser.
