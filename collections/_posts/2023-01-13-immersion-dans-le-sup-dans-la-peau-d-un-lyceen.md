@@ -6,7 +6,7 @@ excerpt: ''
 ---
 Comme l’an dernier il est proposé aux équipes éducatives de l’Académie de Reims des immersions dans les formations du supérieur. Pendant une journée, les acteurs de l’orientation (Professeurs, CPE ou PsyEn) vont être immergés dans une formation de leur choix avec comme objectifs de se mettre à la place d’un lycéen en immersion. Une journée de retour d’expérience en juin 2023 permettra d’élaborer ensuite des séquences éducatives pour accompagner les futures immersions des lycéens. Un catalogue des lieux de formation est disponible au SAIO.
 
-BTS, BTSA, CPGE, DNMADE, formations aux soins infirmiers, manipulation radiologique, kinésithérapie, Sciences poliques, sont autant de formations porposées dans le cadre de l'immersion par des lycées, des IFSI, Sciences po, l'UTT, l'ICP...
+BTS, BTSA, CPGE, DNMADE, formations aux soins infirmiers, manipulation radiologique, kinésithérapie, Sciences politiques, sont autant de formations proposées dans le cadre de l'immersion par des lycées, des IFSI, Sciences po, l'UTT, l'ICP...
 
 A l’URCA deux semaines en mars 2023 seront dédiées à l’accueil des équipes éducatives du secondaire dans le cadre de l’opération « Retour en Amphi » (du lundi 6 au vendredi 17 mars). Plus d’informations à cette [page](https://www.univ-reims.fr/orientation-et-insertion/transition-lycee-universite/ressources-pour-les-equipes-pedagogiques/retour-en-amphi-immersions-des-enseignants/retour-en-amphi-immersions-des-enseignants,26483,43422.html).
 
@@ -31,7 +31,7 @@ Accueil identique en tous points à celui qui est ou serait organisé pour des l
 * Si possible visite de différents pôles avec un petit groupe d’étudiants: administratif, médical, documentation, orientation, social, associatif, sportif…
 * Echange avec les responsables des formations, les enseignants, le chef d’établissement…
 
-**Lieux d’immersion** 
+**Lieux d’immersion**
 
 Demandez le catalogue au SAIO (ce.saio@ac-reims.fr).
 
