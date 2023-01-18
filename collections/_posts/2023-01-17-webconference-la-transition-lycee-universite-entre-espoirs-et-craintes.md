@@ -1,5 +1,5 @@
 ---
-title: Webconférence "la transition lycée-université, entre espoirs et craintes"
+title: Webconférence "La transition lycée-université, entre espoirs et craintes"
 date: 2023-01-17 00:00:00 +0100
 excerpt: ''
 
