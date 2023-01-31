@@ -7,7 +7,7 @@ excerpt: ''
 ---
 Mardi 17 janvier 2023, 20 professeurs de 3ème des collèges de secteur sont venus au lycée découvrir des filières peu connues telles que la filière STL et ST2S.
 
-Mr Droguet, Mr Duchâteau, Mr Schabo, Mme Kurt, Mme Moineau se sont mobilisés pour proposer durant 4 h de découvrir les filières STL et ST2S. Au programme : rencontres avec des élèves de premières, de terminales, d’anciens élèves en études supérieures, participation à des cours, TP et manipulation. Ce premier contact a été très apprécié par les différents collègues et sera probablement étendu à davantage de professeurs dans le futur.
+Mr Droguet, Mr Duchâteau, Mr Schabo, Mme Kurt, Mme Moineau se sont mobilisés pour proposer durant 4h de découvrir les filières STL et ST2S. Au programme : rencontres avec des élèves de premières, de terminales, d’anciens élèves en études supérieures, participation à des cours, TP et manipulation. Ce premier contact a été très apprécié par les différents collègues et sera probablement étendu à davantage de professeurs dans le futur.
 
 Un grand merci aux collègues et aux élèves pour leur investissement.
 
