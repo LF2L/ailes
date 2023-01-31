@@ -17,6 +17,8 @@ _Val de Briey Filières technologiques ST2S, STL… : coup de projecteur à dest
 
 Éclairer des professeurs de 3e sur les filières technologiques ST2S et STL. Ou le dessein de la demi-journée organisée à la cité scolaire de Briey. Une vingtaine d’enseignants du secteur sont venus s’informer auprès des élèves.
 
+![](/uploads/valorisation_voie_techno.jpg)
+
 Il est toujours plus facile de conseiller lorsqu’on sait de quoi on parle. D’autant plus lorsqu’il s’agit d’aborder un sujet aussi important que l’orientation scolaire. Et, dans ce domaine, les enseignants ne sont pas forcément toujours suffisamment armés pour éclairer les élèves, notamment dans ce qui touche aux filières technologiques.
 
 « Elles font partie des moins connues », note Sophie Colognac, inspectrice pédagogique régionale en physique-chimie. Pour changer la donne, cette dernière et deux de ses collaborateurs ont organisé des rendez-vous à destination des professeurs de 3e dans les lycées qui proposent [les filières ST2S (Sciences et techniques de la santé et du social) et STL (Sciences et techniques de laboratoire).](https://www.republicain-lorrain.fr/education/2021/08/28/les-filieres-technologiques-sont-davantage-prisees)
