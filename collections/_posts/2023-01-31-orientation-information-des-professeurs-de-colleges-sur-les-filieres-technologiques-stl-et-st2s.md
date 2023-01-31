@@ -13,7 +13,7 @@ Un grand merci aux collègues et aux élèves pour leur investissement.
 
 **Article du Républicain Lorrain**
 
-_Val de Briey Filières technologiques ST2S, STL… : coup de projecteur à destination des professeurs de 3e_
+[_Val de Briey Filières technologiques ST2S, STL… : coup de projecteur à destination des professeurs de 3e_](https://www.republicain-lorrain.fr/education/2023/01/18/filieres-technologiques-st2s-stl-coup-de-projecteur-a-destination-des-professeurs "Val de Briey Filières technologiques ST2S, STL… : coup de projecteur à destination des professeurs de 3e")
 
 Éclairer des professeurs de 3e sur les filières technologiques ST2S et STL. Ou le dessein de la demi-journée organisée à la cité scolaire de Briey. Une vingtaine d’enseignants du secteur sont venus s’informer auprès des élèves.
 
