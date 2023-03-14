@@ -1,6 +1,6 @@
 ---
 title: Webconférence "La transition lycée-université, entre espoirs et craintes"
-date: 2023-01-17 00:00:00 +0100
+date: 2023-01-17T00:00:00.000+01:00
 excerpt: ''
 
 ---
@@ -13,4 +13,4 @@ Objet récurrent de mesures institutionnelles et de préoccupations des acteurs 
 
 [Pour visionner l'enregistrement de la conférence, cliquez ici.](https://www.youtube.com/watch?v=yCXYpAbisJw)
 
-<iframe width="1264" height="711" src="[https://www.youtube.com/embed/yCXYpAbisJw](https://www.youtube.com/embed/yCXYpAbisJw "https://www.youtube.com/embed/yCXYpAbisJw")" title="La transition lycée-université : entre espoirs et craintes." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="1264" height="711" src="https://www.youtube.com/embed/yCXYpAbisJw" title="La transition lycée-université : entre espoirs et craintes." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
