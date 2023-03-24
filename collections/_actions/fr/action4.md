@@ -1,5 +1,5 @@
 ---
-title: Faire découvrir les metiers
+title: 'Faire découvrir les metiers et ouvrir le champ des possibles '
 permalink: "/actions/action4/"
 excerpt: " "
 header:
@@ -10,8 +10,10 @@ header:
   overlay_filter: 
 
 ---
-Cet axe vise à faire découvrir aux élèves des domaines professionnels et des métiers. Dans un premier temps, il s’agira de l’industrie, du BTP et des métiers de la recherche et développement.
+L'axe 4 du projet AILES vise à faire découvrir aux élèves des domaines professionnels et des métiers.   
+  
+Plusieurs actions sont déployées en ce sens : 
 
-* **Industrie.** Notre territoire est historiquement maillé par l’industrie mais ce secteur, extrêmement important dans notre région, souffre d’un déficit d’image tout en étant fortement pourvoyeur d’emplois.
-* **BTP.** Ce secteur partage un même déficit d’image alors même que les nouvelles technologies ont conduit à une mutation des métiers et des besoins.
-* **R&D.** Ces métiers constituent une vitrine incontournable des universités.
+* [Vidéos de présentation](https://www.univ-reims.fr/orientation-et-insertion/transition-lycee-universite/avant-votre-rentree-a-l-urca/decouvrir-les-formations-de-l-urca/decouvrir-les-formations-de-l-urca,26177,43032.html) des métiers préparés par les études universitaires (Université de Reims Champagne-Ardenne) ;
+* Journée "La recherche pour elles" : 100 jeunes filles, élèves de seconde, invitées dans les labos de recherche en sciences exactes et naturelles (Université de Reims Champagne-Ardenne) pour découvrir les métiers de la recherche ;  
+* Hackathon proposé aux élèves de seconde pour découvrir les métiers de l'informatique et des mathématiques appliquées (Université de Reims Champagne-Ardenne). 
