@@ -19,4 +19,5 @@ Pour ce faire, trois actions sont déployées dans les académies de Nancy-Metz 
 
 * Des formations à destination des équipes éducatives du secondaire pour découvrir ou redécouvrir les filières de l'université ainsi que le développement de ressources numériques pour l’autoformation (M@gistère) ; 
 * Des communautés de pratiques mixtes secondaire/supérieur ; 
+* Des webinaires pour mieux connaître l'offre de formation des universités ; 
 * Des immersions d'enseignants et de psychologues de l'Education Nationale à l'université.
