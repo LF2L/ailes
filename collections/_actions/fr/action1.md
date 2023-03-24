@@ -10,13 +10,13 @@ header:
   overlay_filter: 
 
 ---
-Deux grands défis :
+Deux objectifs président à l'axe 1 du projet AILES : 
 
 * Amener les professionnels de l’enseignement à informer et accompagner les élèves dans leurs choix d’orientation ;
-* Amener les deux systèmes, scolaire et supérieur, à mieux se connaître et mieux se comprendre.
+* Amener les deux systèmes, secondaire et supérieur, à mieux se connaître et mieux se comprendre.
 
-Trois dispositifs :
+Pour ce faire, trois actions sont déployées dans les académies de Nancy-Metz et Reims :
 
-* Un plan de formation continue spécifique à l’orientation (sensibilisation à l’approche orientante, connaissance partagée des parcours, difficultés liées à l’autocensure, au manque d’ambition et de confiance en soi). Il concernera les personnels des lycées et de l’enseignement supérieur et sera organisé en présentiel, au plus près des acteurs, mais également à distance (webinaire, etc.) ;
-* Des communautés de pratiques mixtes secondaire/supérieur ;
-* Le développement de ressources numériques pour l’autoformation.
+* Des formations à destination des équipes éducatives du secondaire pour découvrir ou redécouvrir les filières de l'université ainsi que le développement de ressources numériques pour l’autoformation (M@gistère) ; 
+* Des communautés de pratiques mixtes secondaire/supérieur ; 
+* Des immersions d'enseignants et de psychologues de l'Education Nationale à l'université.
