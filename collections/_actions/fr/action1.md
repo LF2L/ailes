@@ -10,6 +10,8 @@ header:
   overlay_filter: 
 
 ---
+**Appuyer l'accompagnement de proximité dans les lycées**
+
 Deux objectifs président à l'axe 1 du projet AILES : 
 
 * Amener les professionnels de l’enseignement à informer et accompagner les élèves dans leurs choix d’orientation ;
