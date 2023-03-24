@@ -17,7 +17,11 @@ Deux objectifs président à l'axe 1 du projet AILES :
 
 Pour ce faire, trois actions sont déployées dans les académies de Nancy-Metz et Reims :
 
-* Des formations à destination des équipes éducatives du secondaire pour découvrir ou redécouvrir les filières de l'université ainsi que le développement de ressources numériques pour l’autoformation (M@gistère) ; 
-* Des communautés de pratiques mixtes secondaire/supérieur ; 
-* Des webinaires pour mieux connaître l'offre de formation des universités ; 
-* Des immersions d'enseignants et de psychologues de l'Education Nationale à l'université.
+* Des formations à destination des équipes éducatives du secondaire pour découvrir ou redécouvrir les filières de l'université ainsi que le développement de ressources numériques pour l’autoformation (M@gistère) : 
+  * Voir [formations découverte des filières à l'URCA](https://www.univ-reims.fr/orientation-et-insertion/transition-lycee-universite/ressources-pour-les-equipes-pedagogiques/les-formations-des-equipes-pedagogiques-du-secondaire/formations-des-equipes-pedagogiques-du-secondaire,25840,42534.html)
+  * Voir [formations découverte des filières à l'UL](https://www.projetailes.com/posts/2023/formation-connaissance-des-filieres-de-l-universite-decouvrez-ou-redecouvrez-l-universite/) 
+* Des communautés de pratiques mixtes secondaire/supérieur : 
+  * Voir : Communauté de pratique à l'[Université de Reims Champagne-Ardenne et Université de Technologie de Troyes](https://www.univ-reims.fr/orientation-et-insertion/transition-lycee-universite/ressources-pour-les-equipes-pedagogiques/les-communautes-de-pratique-secondaire-superieur/communaute-de-pratique-secondaire-superieur,25841,42536.html) 
+* Des webinaires pour mieux connaître l'offre de formation des universités : 
+  * Voir [webinaires transition lycée-université dans l'académie de Reims](https://www.projetailes.com/posts/2023/webinaires-transition-lycee-universite/)
+* Des [immersions d'enseignants et de psychologues de l'Education Nationale ](https://www.univ-reims.fr/orientation-et-insertion/transition-lycee-universite/ressources-pour-les-equipes-pedagogiques/retour-en-amphi-immersions-des-enseignants/immersions-des-enseignants-du-secondaire,26483,43422.html)dans les formations du supérieur. 
