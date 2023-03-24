@@ -12,7 +12,13 @@ header:
 ---
 **Favoriser l'ambition et la confiance**   
   
-L'axe 3 du projet AILES regroupe des actions visant à aider les jeunes à construire leur projet de formation de manière ambitieuse. 
+L'axe 3 du projet AILES vise à : 
+
+* Aider les jeunes à construire leur projet de formation de manière ambitieuse
+* Développer la confiance et l'estime de soi 
+* Limiter l'autocensure 
+
+Il regroupe des actions visant à aider les jeunes à construire leur projet de formation de manière ambitieuse. 
 
 * **Ateliers permettant de travailler la confiance en soi et l’ambition.** Fondés sur des pédagogies actives, ces ateliers permettront de faire prendre conscience aux jeunes de leurs compétences, notamment les compétences sociales, de savoir les identifier et les mettre en valeur.
 
