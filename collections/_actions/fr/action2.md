@@ -44,5 +44,4 @@ OU
   * Présentation des licences et de B.U.T (novembre - mars) 
   * Bienvenue aux nouveaux bacheliers à l'URCA (juin-juillet) 
 * Accueil des nouveaux étudiants (Université de Reims Champagne-Ardenne) : opérations boussole et stands d'accueil des nouveaux étudiants à la rentrée sur les principaux campus, présentation des ressources aux réunions de rentrée (kit de rentrée, conseils pour réussir sa première année, etc.) 
-* Une stratégie de communication concentrée (Université de Reims Champagne-Ardenne) : 
-  * L'ensemble des informations concernant la [transition lycée-université](https://www.univ-reims.fr/orientation-et-insertion/transition-lycee-universite/transition-lycee-universite,25116,43043.html) sont regroupées sur une même rubrique du site de l'université. 
+* Une stratégie de communication concentrée (Université de Reims Champagne-Ardenne) : l'ensemble des informations concernant la [transition lycée-université](https://www.univ-reims.fr/orientation-et-insertion/transition-lycee-universite/transition-lycee-universite,25116,43043.html) sont regroupées sur une même rubrique du site de l'université. 
