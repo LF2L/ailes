@@ -37,9 +37,9 @@ OU
 
 {% include carousel.html height="100" unit="%" duration="10" %}
 
-* Des dispositifs d'immersions : 
+* Des dispositifs d'immersions (Université de Reims Champagne-Ardenne et Université de Lorraine) : 
   * En temps extrascolaire : le dispositif "Un jour à l'université" pendant les vacances d'hiver déployé à l'[Université de Reims Champagne-Ardenne](https://www.univ-reims.fr/orientation-et-insertion/transition-lycee-universite/immersion-un-jour-a-l-universite/un-jour-a-l-universite,25687,42344.html) et de l'[Université de Lorraine](https://www.univ-lorraine.fr/orientation-insertion-professionnelle/vous-etes-lyceen-ne/)
-  * Des immersions en temps scolaire : CAPSUP à l'Université de Lorrain, immersions à la demande à l'URCA.  
+  * Des immersions en temps scolaire : CAPSUP à l'Université de Lorrain, immersions à la demande des enseignants du secondaire à l'URCA.  
 * [Webinaires ](https://www.univ-reims.fr/orientation-et-insertion/transition-lycee-universite/avant-votre-rentree-a-l-urca/webinaires-transition-lycee-universite/webinaires-transition-lycee-universite,26394,43290.html)(Université de Reims Champagne-Ardenne) : 
   * Présentation des licences et de B.U.T (novembre - mars) 
   * Bienvenue aux nouveaux bacheliers à l'URCA (juin-juillet) 
