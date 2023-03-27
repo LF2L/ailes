@@ -1,5 +1,5 @@
 ---
-title: 'Faire découvrir les metiers et ouvrir le champ des possibles '
+title: 'Faire découvrir les métiers et ouvrir le champ des possibles '
 permalink: "/actions/action4/"
 excerpt: " "
 header:
@@ -10,7 +10,9 @@ header:
   overlay_filter: 
 
 ---
-L'axe 4 du projet AILES vise à faire découvrir aux élèves des domaines professionnels et des métiers. Un accent est mis sur les filières du territoire : bioéconomie, industrie, recherche et développement. 
+**Faire découvrir les métiers et ouvrir le champ des possibles**
+
+L'axe 4 du projet AILES vise à faire découvrir aux élèves des domaines professionnels et des métiers. Un accent est mis sur les filières du territoire : bioéconomie, industrie, recherche et développement.
 
 Plusieurs actions sont déployées en ce sens :
 
