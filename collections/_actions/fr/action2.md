@@ -12,7 +12,7 @@ header:
 ---
 **Mieux informer les lycéens et leur famille sur l'enseignement supérieur**
 
-L'axe 2 du projet AILES répond à un objectif principal : 
+L'axe 2 du projet AILES répond à un objectif principal :
 
 * améliorer la communication à destination des lycéens et des familles sur l'offre de formation de l'enseignement supérieur, la vie étudiante et les dispositifs de soutien à la réussite.
 
@@ -46,3 +46,5 @@ OU
 * Des [Rendez-vous de l'orientation](https://www.projetailes.com/posts/2023/petit-dejeuner-de-l-orientation-pour-les-parents-d-eleve-de-1ere-et-de-terminale-du-toulois/) (Rectorat de Nancy-Metz) dans les CIO de l'académie de Nancy-Metz pour mieux informer les familles sur l'enseignement supérieur.
 * Un [Accueil des nouveaux étudiants](https://www.univ-reims.fr/orientation-et-insertion/transition-lycee-universite/kit-de-rentree/accueil-des-nouveaux-etudiants/accueil-des-nouveaux-etudiants-a-l-urca,26246,43099.html) (Université de Reims Champagne-Ardenne) : opérations boussole et stands d'accueil des nouveaux étudiants à la rentrée sur les principaux campus, présentation des ressources aux réunions de rentrée (kit de rentrée, conseils pour réussir sa première année, etc.)
 * Une stratégie de communication concentrée (Université de Reims Champagne-Ardenne) : l'ensemble des informations concernant la [transition lycée-université](https://www.univ-reims.fr/orientation-et-insertion/transition-lycee-universite/transition-lycee-universite,25116,43043.html) sont regroupées sur une même rubrique du site de l'université.
+
+_Version du 31 mars 2023_
