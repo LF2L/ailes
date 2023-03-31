@@ -13,4 +13,4 @@ Objet récurrent de mesures institutionnelles et de préoccupations des acteurs 
 
 [Pour visionner l'enregistrement de la conférence, cliquez ici.](https://www.youtube.com/watch?v=yCXYpAbisJw)
 
-<iframe width="1264" height="711" src="https://www.youtube.com/embed/yCXYpAbisJw" title="La transition lycée-université : entre espoirs et craintes." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="1191" height="670" src="https://www.youtube.com/embed/yCXYpAbisJw" title="La transition lycée-université : entre espoirs et craintes." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
