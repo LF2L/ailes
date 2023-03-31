@@ -19,3 +19,5 @@ Plusieurs actions sont déployées en ce sens :
 * [Vidéos de présentation](https://www.univ-reims.fr/orientation-et-insertion/transition-lycee-universite/avant-votre-rentree-a-l-urca/decouvrir-les-formations-de-l-urca/decouvrir-les-formations-de-l-urca,26177,43032.html) des métiers préparés par les études universitaires (Université de Reims Champagne-Ardenne) ;
 * Journée "La recherche pour elles" : 100 jeunes filles, élèves de seconde, invitées dans les labos de recherche en sciences exactes et naturelles (Université de Reims Champagne-Ardenne) pour découvrir les métiers de la recherche ;
 * Hackathon proposé aux élèves de seconde pour découvrir les métiers de l'informatique et des mathématiques appliquées (Université de Reims Champagne-Ardenne).
+
+_Version du 31 mars 2023_
