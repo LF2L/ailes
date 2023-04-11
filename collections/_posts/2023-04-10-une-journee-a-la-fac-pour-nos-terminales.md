@@ -1,6 +1,6 @@
 ---
 title: Une journée à la fac pour nos terminales
-date: 
+date: 2023-04-10 00:00:00 +0200
 excerpt: ''
 
 ---
