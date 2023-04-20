@@ -12,6 +12,8 @@ Cette journée est le fruit d’une collaboration, dans le cadre du projet AILES
 
 M. Christophe Clément, premier Vice-président de l’URCA a ouvert la journée par un bref discours d’ouverture : « La recherche est un métier passion, qui produit de la connaissance, stimulant intellectuellement, gratifiant et enrichissant sur le plan professionnel et personnel. Mesdames ne vous mettez pas de freins ».
 
+![](/uploads/recherche_pour_elles.jpg)
+
 Mme Isabelle Titeux, Vice-présidente déléguée à la représentation de l'université dans les Ardennes, a ensuite présentée son parcours et ses activités dans les sciences industrielles, un domaine scientifique plutôt relativement masculin : « Je n’ai jamais rencontré de difficultés ».
 
 Des speeds-meetings organisés par l’association ACCUSTICA ont ensuite permis un temps d’échange entre les élèves et diverses catégories de personnels engagés dans la recherche.
