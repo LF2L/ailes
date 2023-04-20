@@ -19,6 +19,7 @@ Janvier 2021 : [article paru dans l'Est-Eclair](https://abonne.lest-eclair.fr/id
 Janvier 2021 : [article paru sur AEF Info](https://www.aefinfo.fr/depeche/643734)  
 Février 2021 : [article paru dans l'Est-Eclair](https://app.forestry.io/sites/izysdoe0t609hw/body-media//uploads/2021_02_02_est_eclair.pdf)  
 Mars 2021 : [article paru dans Vosges Matin](https://app.forestry.io/sites/izysdoe0t609hw/body-media//uploads/2021_03_vosges_matin_talent_campus.pdf)  
+Décembre 2022 : [article paru sur le site de France Bleu Champagne-Ardenne](https://www.francebleu.fr/infos/education/l-universite-de-reims-ouvre-ses-portes-aux-jeunes-lyceennes-pour-promouvoir-les-filieres-scientifiques-2707787)  
 Mars 2023 : [article paru dans l'Est-Eclair sur les étudiants ambassadeurs](https://www.estrepublicain.fr/education/2023/04/07/des-ambassadeurs-de-l-universite-au-lycee)
 
 ## Contactez-nous
