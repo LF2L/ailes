@@ -8,9 +8,7 @@ Ouverture par Christophe Clément, premier vice-président : "La recherche est u
 
 Dans le cadre d’une démarche d’orientation et de valorisation des carrières scientifiques auprès des jeunes filles, 100 élèves de seconde du lycée Paul Verlaine de Rethel ont été accueillies à l’Université de Reims Champagne-Ardenne pour une journée d’immersion dans 6 laboratoires de recherche en sciences exactes et naturelles.
 
-Cette journée est le fruit d’une collaboration, dans le cadre du projet AILES, entre le rectorat de l’académie de Reims, l’URCA et l’association de promotion de la culture scientifique ACCUSTICA. Elle entrait également dans les objectifs de l’action « Science avec et pour la société ».
-
-La finalité de cette journée était de susciter l’enthousiasme pour les études longues et de donner envie aux jeunes de s’investir dans la recherche de métiers qui leur donnent envie.
+Cette journée est le fruit d’une collaboration, dans le cadre du projet AILES, entre le rectorat de l’académie de Reims, l’URCA et l’association de promotion de la culture scientifique ACCUSTICA. Elle entrait également dans les objectifs de l’action « Science avec et pour la société ». Sa finalité était de susciter l’enthousiasme pour les études longues et de donner envie aux jeunes de s’investir dans la recherche de métiers qui leur donnent envie.
 
 M. Christophe Clément, premier Vice-président de l’URCA a ouvert la journée par un bref discours d’ouverture : « La recherche est un métier passion, qui produit de la connaissance, stimulant intellectuellement, gratifiant et enrichissant sur le plan professionnel et personnel. Mesdames ne vous mettez pas de freins ».
 
