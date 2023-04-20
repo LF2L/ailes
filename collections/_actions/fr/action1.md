@@ -1,5 +1,5 @@
 ---
-title: Accompagner
+title: Appuyer l'accompagnement de proximité dans les lycées
 permalink: "/actions/action1/"
 excerpt: " "
 header:
