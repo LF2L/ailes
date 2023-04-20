@@ -18,6 +18,8 @@ Mme Isabelle Titeux, Vice-présidente déléguée à la représentation de l'uni
 
 Des speeds-meetings organisés par l’association ACCUSTICA ont ensuite permis un temps d’échange entre les élèves et diverses catégories de personnels engagés dans la recherche.
 
+![](/uploads/recherche_pour_elles3.jpg)
+
 La pause méridienne était l’occasion de découvrir le restaurant universitaire du CROUS sur le campus Moulin de la Housse et d’appréhender un peu plus les divers aspects de la vie universitaire.
 
 L’après-midi a été consacrée à la visite des 6 laboratoires de recherche engagés dans cette journée : GSMA, ICMR, ITheMM, RIPB, SEBIO, MEDyC, tous rattachés à l’UFR Sciences Exactes et Naturelles de l’URCA.
@@ -30,4 +32,4 @@ Retrouvez [#LaRecherchePourElles](https://twitter.com/hashtag/LaRecherchePourEll
 
 [#LaRecherchePourElles](https://twitter.com/hashtag/LaRecherchePourElles?src=hashtag_click) [@isabelletiteux](https://twitter.com/isabelletiteux) présente son parcours, ses activités dans un domaine scientifique plutôt masculin et comment elle a su conjuguer vie professionnelle et personnelle. "Je n'ai jamais rencontré de difficultés "
 
-Un merci tout particulier à la Direction de la Recherche et de la Valorisation à l’URCA, aux équipes des unités de recherche investies, aux enseignants du lycée Paul Verlaine de Rethel pour la réussite de cette belle journée.
+_Un merci tout particulier à la Direction de la Recherche et de la Valorisation à l’URCA, aux équipes des unités de recherche investies, aux enseignants du lycée Paul Verlaine de Rethel pour la réussite de cette belle journée._
