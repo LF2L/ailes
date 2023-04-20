@@ -26,10 +26,12 @@ L’après-midi a été consacrée à la visite des 6 laboratoires de recherche 
 
 [Revivez la journée en 3 min vidéo.  ](https://mediacenter.univ-reims.fr/videos/?video=MEDIA230124155941167&autostart=true)
 
-Retrouvez [#LaRecherchePourElles](https://twitter.com/hashtag/LaRecherchePourElles?src=hashtag_click) sur les réseaux sociaux :
+Retrouvez [#LaRecherchePourElles](https://twitter.com/hashtag/LaRecherchePourElles?src=hashtag_click) sur les réseaux sociaux et dans les médias :
 
 [@Clement_URCA](https://twitter.com/Clement_URCA) [#LaRecherchePourElles](https://twitter.com/hashtag/LaRecherchePourElles?src=hashtag_click) "La recherche est un métier passion, qui produit de la connaissance, stimulant intellectuellement, gratifiant et enrichissant sur le plan professionnel et personnel." "Mesdames ne vous mettez pas de freins"
 
 [#LaRecherchePourElles](https://twitter.com/hashtag/LaRecherchePourElles?src=hashtag_click) [@isabelletiteux](https://twitter.com/isabelletiteux) présente son parcours, ses activités dans un domaine scientifique plutôt masculin et comment elle a su conjuguer vie professionnelle et personnelle. "Je n'ai jamais rencontré de difficultés "
+
+[L'université de Reims ouvre ses portes aux jeunes lycéennes pour promouvoir les filières scientifiques ](https://www.francebleu.fr/infos/education/l-universite-de-reims-ouvre-ses-portes-aux-jeunes-lyceennes-pour-promouvoir-les-filieres-scientifiques-2707787): article de Bastien Thomas pour France Bleu Champagne-Ardenne. 
 
 _Un merci tout particulier à la Direction de la Recherche et de la Valorisation à l’URCA, aux équipes des unités de recherche investies, aux enseignants du lycée Paul Verlaine de Rethel pour la réussite de cette belle journée._
