@@ -14,7 +14,7 @@ header:
   overlay_filter: 
 
 ---
-    Living Lab
+**Living Lab**
 
 La démarche Living Lab est une approche d’innovation qui consiste à  
 « **co-concevoir et innover ensemble** », _pour_ et _avec_ les différents acteurs. Les parties prenantes sont impliquées tout au long du projet et dans l’ensemble des actions : dès les actions de problématisation et de recherche préliminaires, qui consistent à identifier les besoins ; et à partir de cette compréhension des besoins, de co-concevoir des solutions. **La notion de _participation_ est donc centrale à la démarche**. En cela, nous dirons que le projet AILES adopte une « approche centrée-sur-l’humain », en prenant en compte les besoins, les expériences et les valeurs des différentes catégories d’usagers des dispositifs, et en plaçant ceux-ci au centre de tout le processus itératif d’innovation.
