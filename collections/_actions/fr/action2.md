@@ -1,5 +1,5 @@
 ---
-title: Mieux informer
+title: Mieux informer les lycéens et leur famille sur l'enseignement supérieur
 permalink: "/actions/action2/"
 excerpt: " "
 header:
