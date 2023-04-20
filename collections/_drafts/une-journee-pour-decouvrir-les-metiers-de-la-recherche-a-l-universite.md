@@ -1,6 +1,6 @@
 ---
 title: Une journée pour découvrir les métiers de la recherche à l'université
-date: 
+date: 2023-04-20 00:00:00 +0200
 excerpt: ''
 
 ---
